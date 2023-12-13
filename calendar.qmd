@@ -1,0 +1,60 @@
+---
+title: "Calendar for 500: Spring 2024"
+date-modified: last-modified
+---
+
+This Calendar serves as the final word on all deadlines, deliverables and class sessions. 
+
+## Readings
+
+During the course, we will read Paul Rosenbaum's book **Observation and Experiment: An Introduction to Causal Inference**, which is available as an e-book or in paperback for under $40. Please read the Preface and Chapter 1 before our first class on 2024-01-18. 
+
+## Timing and Location
+
+- All classes are held in Wolstein Research Building, Room 1217.
+- Classes 01, 13, 14 and 15 will begin at 8:30 AM and continue until 11 AM.
+- Classes 02-12 will begin at 9:00 AM and continue until 11 AM.
+
+## January 2024
+
+LINK | Date | Description
+---------: | :-------: | :-----------------------------------------------------
+[Class 01] | 01-18 | (8:30 - 11 AM) Rosenbaum Preface & Chapter 1, Introduction
+[Lab 0](lab0.qmd) | 01-24 | Read through the [Lab 0 example](lab0.qmd) before Class 02. Can you replicate it?
+[Class 02] | 01-25 | Rosenbaum Chapter 2, Propensity Scores I
+
+## February 2024
+
+LINK | Date | Description
+---------: | :-------: | :-----------------------------------------------------
+[Class 03] | 02-01 | Details to come.
+[Class 04] | 02-08 | Details to come.
+[Class 05] | 02-15 | Details to come.
+[Class 06] | 02-22 | Details to come.
+[Class 07] | 02-29 | Details to come.
+
+## March 2024
+
+LINK | Date | Description
+---------: | :-------: | :-----------------------------------------------------
+[Class 08] | 03-07 | Details to come.
+- | 03-14 | CWRU Spring Break (3-11 through 3-15)
+[Class 09] | 03-21 | Details to come.
+[Class 10] | 03-28 | Details to come.
+
+## April and May 2024
+
+LINK | Date | Description
+---------: | :-------: | :-----------------------------------------------------
+[Class 11] | 04-04 | Details to come.
+[Class 12] | 04-11 | Details to come.
+[Class 13] | 04-18 | Project Presentations, 1
+[Class 14] | 04-25 | Project Presentations, 2
+[Class 15] | 05-02 | Project Presentations, 3
+
+## End of Semester
+
+- Final Project Submissions are due to Canvas at **12 Noon on Monday 2023-05-06** from everyone.
+- When prompted via email by the University (usually in late April), please visit <https://webapps.case.edu/courseevals/> and complete the course evaluations before they close.
+
+
