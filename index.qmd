@@ -3,6 +3,8 @@ title: "500 Main Page for Spring 2024"
 date: last-modified
 ---
 
+# THIS WEBSITE IS SUBJECT TO MAJOR CHANGE BETWEEN NOW AND JANUARY 12, 2024
+
 Welcome! PQHS 500 (also called CRSP 500) is taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Everything that Professor Love will provide to help you with the course will appear on this website.
 
 The class begins on Thursday 2024-01-18 at 8:30 AM in Room 1217 of the Wolstein Research Building.
@@ -13,18 +15,17 @@ The menu bar includes links to just about everything you'll need this semester, 
 
 - the [course syllabus](https://thomaselove.github.io/500-syllabus-2024/)
 - the [course calendar](calendar.qmd), which provides the final word on all class sessions and deadlines, and also provides links to the materials used in each class session.
-- course assignment information, including [labs](lab1.qmd), [essays](essays.qmd), the Observational Studies in Action ([OSIA](osia.qmd)) presentations of studies from the literature, and a semester-long [project](proj500.qmd).
+- course assignment information, including [labs](lab1.qmd), the Observational Studies in Action ([OSIA](osia.qmd)) presentations of studies from the literature, and a semester-long [project](proj500.qmd).
 - information on [software](software.qmd), including installation of R and RStudio, key R packages, downloading [data (and code)](https://github.com/THOMASELOVE/500-data) you'll need for the class.
+- links to additional [Sources](https://github.com/THOMASELOVE/500-sources) (articles, etc.) that we'll be reading this semester, or that I think might be helpful to you.
 - a link to the [Canvas](https://canvas.case.edu/) system (CWRU log-in required) we use for turning in some assignments and posting links to recordings,
-- information about where you can [get help and contact Dr. Love](contact.qmd).
-
-I also provide some additional [resources and references](https://github.com/THOMASELOVE/500-classes-2024/tree/main/sources) here.
+- information about where you can [get help with the course and contact Dr. Love, or the course teaching assistant, Leila Hojat](contact.qmd).
 
 ## What Should I Do Before Class Begins?
 
 In addition to exploring what's available on this website, you should ...
 
-1. **Buy the book**. During the course, we will read Paul Rosenbaum's book **Observation and Experiment: An Introduction to Causal Inference**, which is available as an e-book or in paperback for under $40. Please read the Preface and Chapter 1 before our first class on XXXX.
+1. **Buy the book**. During the course, we will read Paul Rosenbaum's book **Causal Inference**, which is available as an e-book or in paperback for under $15. Please read through Chapter 2 before our first class on 2024-01-18, if you can.
 
 2. Once you have registered for the course, please visit our [Welcome to 500 survey](https://bit.ly/500-welcome-2024). You'll need to log into Google via CWRU to access the survey, which should take about 10 minutes to complete. Please complete the survey as soon as possible, ideally before our first class at 8:30 AM on 2024-01-18 in Wolstein Research Building room 1217.
 
@@ -33,6 +34,6 @@ In addition to exploring what's available on this website, you should ...
 ## Accessing the 431-432 Class Notes
 
 The [431 Class Notes from Fall 2023 are here](https://thomaselove.github.io/431-notes/), and will be until 2024-06-01.
-The [432 Class Notes from Spring 2023 are here](https://thomaselove.github.io/432-notes/), and will be until 2024-06-01.
+The [432 Class Notes from Spring 2024 are here](https://thomaselove.github.io/432-notes/), and will be until 2024-06-01.
 
-If you have any questions, [email Dr. Love](contact.qmd)
+If you have any questions, [email us](contact.qmd)

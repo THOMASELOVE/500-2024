@@ -11,42 +11,42 @@
     "href": "calendar.html#readings",
     "title": "Calendar for 500: Spring 2024",
     "section": "Readings",
-    "text": "Readings\nDuring the course, we will read Paul Rosenbaum’s book Observation and Experiment: An Introduction to Causal Inference, which is available as an e-book or in paperback for under $40. Please read the Preface and Chapter 1 before our first class on 2024-01-18."
+    "text": "Readings\nDuring the course, we will read Paul Rosenbaum’s book Causal Inference (abbreviated PRR CI in what follows), which is available as an e-book or in paperback for under $15. Please obtain the book before our first class on 2024-01-18, and, if you can, read Chapters 1-3 as soon as possible."
   },
   {
     "objectID": "calendar.html#timing-and-location",
     "href": "calendar.html#timing-and-location",
     "title": "Calendar for 500: Spring 2024",
     "section": "Timing and Location",
-    "text": "Timing and Location\n\nAll classes are held in Wolstein Research Building, Room 1217.\nClasses 01, 13, 14 and 15 will begin at 8:30 AM and continue until 11 AM.\nClasses 02-12 will begin at 9:00 AM and continue until 11 AM."
+    "text": "Timing and Location\n\nAll classes are held in Wolstein Research Building, Room 1217.\nClasses 01, 12, 13, 14 and 15 will begin at 8:30 AM and continue until 11:00 AM.\nClasses 02-11 will begin at 9:00 AM and continue until 11:00 AM."
   },
   {
     "objectID": "calendar.html#january-2024",
     "href": "calendar.html#january-2024",
     "title": "Calendar for 500: Spring 2024",
     "section": "January 2024",
-    "text": "January 2024\n\n\n\nLINK\nDate\nDescription\n\n\n\n\n[Class 01]\n01-18\n(8:30 - 11 AM) Rosenbaum Preface & Chapter 1, Introduction\n\n\nLab 0\n01-24\nRead through the Lab 0 example before Class 02. Can you replicate it?\n\n\n[Class 02]\n01-25\nRosenbaum Chapter 2, Propensity Scores I"
+    "text": "January 2024\n\n\n\nLINK\nDate\nDescription\n\n\n\n\nClass 01\n01-18\n(8:30 - 11 AM) Introduction, Treatments & Randomization  Readings: (1) PRR CI through Chapter 2,  From Sources: (2) Benson and Hartz 2000\n\n\nClass 02\n01-25\n9 - 11 AM Observational Studies  Readings: (1) PRR CI through Chapter 3,  From Sources: (2) Abramson Chapter 2  From Sources: (3) McGowan blog post  From Sources: (4) Bradford Hill 1965\n\n\nLab 1\n01-31\n9 AM: Lab 1 due to Canvas"
   },
   {
     "objectID": "calendar.html#february-2024",
     "href": "calendar.html#february-2024",
     "title": "Calendar for 500: Spring 2024",
     "section": "February 2024",
-    "text": "February 2024\n\n\n\n\n\n\n\n\nLINK\nDate\nDescription\n\n\n\n\n[Class 03]\n02-01\nDetails to come.\n\n\n[Class 04]\n02-08\nDetails to come.\n\n\n[Class 05]\n02-15\nDetails to come.\n\n\n[Class 06]\n02-22\nDetails to come.\n\n\n[Class 07]\n02-29\nDetails to come."
+    "text": "February 2024\n\n\n\nLINK\nDate\nDescription\n\n\n\n\nClass 03\n02-01\n9 - 11 AM Propensity Scores, I  Readings: (1) PRR CI through Chapter 4,  From Sources: (2) Connors 1996,  From Sources: (3) Gum 2001\n\n\nLab 2\n02-07\n9 AM: Lab 2 due to Canvas\n\n\nClass 04\n02-08\n9 - 11 AM Propensity Scores, II  Readings from Sources: (1) Austin and Mamdani 2006,  From Sources: (2) Normand 2001,  From Sources: (3) D’Agostino Jr 1998\n\n\nOSIA\n02-14\n9 AM: OSIA selections due\n\n\nClass 05\n02-15\n9 - 11 AM Propensity Scores, III  Readings: (1) PRR CI through Chapter 5,  From Sources: (2) Ahmed et al 2012,  From Sources: (3) Hirano and Imbens 2001\n\n\nProject\n02-21\n9 AM: Project Proposal Draft 1 due to Canvas\n\n\nClass 06\n02-22\n9 - 11 AM Propensity Scores, IV  Readings from Sources: (1) Rubin 2001, (2) Rubin 2004\n\n\nLab 3\n02-28\n9 AM: Lab 3 due to Canvas\n\n\nClass 07\n02-29\n9 - 11 AM Propensity Scores, V  Readings: PRR CI through Chapter 6,  From Sources: (2) Hansen 2004  From Sources: (3) Huybrechts 2014"
   },
   {
     "objectID": "calendar.html#march-2024",
     "href": "calendar.html#march-2024",
     "title": "Calendar for 500: Spring 2024",
     "section": "March 2024",
-    "text": "March 2024\n\n\n\n\n\n\n\n\nLINK\nDate\nDescription\n\n\n\n\n[Class 08]\n03-07\nDetails to come.\n\n\n-\n03-14\nCWRU Spring Break (3-11 through 3-15)\n\n\n[Class 09]\n03-21\nDetails to come.\n\n\n[Class 10]\n03-28\nDetails to come."
+    "text": "March 2024\n\n\n\nLINK\nDate\nDescription\n\n\n\n\nProject\n03-04\n9 AM: Project Proposal Draft 2 due to Canvas\n\n\n[Class 08]\n03-07\n9 - 11 AM OSIA 1, and project discussions  Readings: (1) PRR CI through Chapter 7,  From Sources: (2) Tanenbaum 2019\n\n\nNo Class\n03-14\nCWRU Spring Break (3-11 through 3-15)\n\n\nLab 4\n03-20\n9 AM: Lab 4 due to Canvas\n\n\n[Class 09]\n03-21\n9 - 11 AM OSIA 2, more TBA  Reading: PRR CI through Chapter 8\n\n\n[Class 10]\n03-28\n9 - 11 AM OSIA 3, more TBA  Reading: PRR CI through Chapter 9"
   },
   {
     "objectID": "calendar.html#april-and-may-2024",
     "href": "calendar.html#april-and-may-2024",
     "title": "Calendar for 500: Spring 2024",
     "section": "April and May 2024",
-    "text": "April and May 2024\n\n\n\n\n\n\n\n\nLINK\nDate\nDescription\n\n\n\n\n[Class 11]\n04-04\nDetails to come.\n\n\n[Class 12]\n04-11\nDetails to come.\n\n\n[Class 13]\n04-18\nProject Presentations, 1\n\n\n[Class 14]\n04-25\nProject Presentations, 2\n\n\n[Class 15]\n05-02\nProject Presentations, 3"
+    "text": "April and May 2024\n\n\n\n\n\n\n\n\nLINK\nDate\nDescription\n\n\n\n\nProject\n04-01\n9 AM: Project Update due to Canvas\n\n\n[Class 11]\n04-04\n9 - 11 AM OSIA 4, discussion of project updates  Reading: PRR CI finish book\n\n\n[Class 12]\n04-11\n8:30 AM to 11 AM Project Presentations, 1\n\n\n[Class 13]\n04-18\n8:30 AM to 11 AM Project Presentations, 2\n\n\n[Class 14]\n04-25\n8:30 AM to 11 AM Project Presentations, 3\n\n\n[Class 15]\n05-02\n8:30 AM to 11 AM Project Presentations, 4"
   },
   {
     "objectID": "calendar.html#end-of-semester",
@@ -60,49 +60,35 @@
     "href": "contact.html",
     "title": "Contact Us",
     "section": "",
-    "text": "If you have a question at any time, send it by email to Dr. Love at Thomas dot Love at case dot edu.\nI will generally be available from 11 to Noon on Thursdays for informal office hours. Just let me know during the break in class if you’re planning to chat with me after class.\nMy additional information is part of the Course Syllabus."
-  },
-  {
-    "objectID": "essays.html",
-    "href": "essays.html",
-    "title": "Essay Prompts",
-    "section": "",
-    "text": "This page provides prompts for the reactions you’ll provide to Paul Rosenbaum’s Observation and Experiment text through the semester. There are prompts here for Chapters 7-12, but Dr. Love has not yet decided which (if any) of these essays will be required. For each of the prompts that are assigned by Dr. Love you will need to produce an essay of 175-250 words.\n\nNote that the first few prompts are between 100 and 111 words in length, so that in most cases a response of about double the length of the prompt should be your goal. These are not long essays.\n\n\n\nEach of these essays is due on the day that the relevant chapter is to be discussed in class according to the Course Calendar.\n\nPlease submit your essay to our shared Google Drive by 8 AM on the day we will discuss the chapter, so that all of your colleagues can see it. Submit your essay to the appropriate subfolder of the Rosenbaum Essays folder.\nYou will share your essay with a few of your colleagues, and so you should expect that anyone in the class might read it and comment.\nAn appropriate file name for your submission would be YOUR_NAME-essay7.doc for the Chapter 7 essay, for instance. Acceptable formats for this essay include PDF, word documents or Google Docs.\nFor help with anything involved in the class, contact Dr. Love."
-  },
-  {
-    "objectID": "essays.html#turning-in-your-essays",
-    "href": "essays.html#turning-in-your-essays",
-    "title": "Essay Prompts",
-    "section": "",
-    "text": "Each of these essays is due on the day that the relevant chapter is to be discussed in class according to the Course Calendar.\n\nPlease submit your essay to our shared Google Drive by 8 AM on the day we will discuss the chapter, so that all of your colleagues can see it. Submit your essay to the appropriate subfolder of the Rosenbaum Essays folder.\nYou will share your essay with a few of your colleagues, and so you should expect that anyone in the class might read it and comment.\nAn appropriate file name for your submission would be YOUR_NAME-essay7.doc for the Chapter 7 essay, for instance. Acceptable formats for this essay include PDF, word documents or Google Docs.\nFor help with anything involved in the class, contact Dr. Love."
+    "text": "Leila Hojat will also serve as a teaching assistant for this course, for which I am extremely grateful. Leila has taken the course in the past, and will be happy to help you with questions you have about R, about propensity scores, and about other course materials when I cannot.\nI will generally be available from 11 to Noon on Thursdays for informal office hours. Just let me know during the break in class if you’re planning to chat with me after class.\nIf you have a question at any time, send it by email to us at 500-help at case dot edu.\nMy additional information is part of the Course Syllabus."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "500 Main Page for Spring 2024",
     "section": "",
-    "text": "Welcome! PQHS 500 (also called CRSP 500) is taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Everything that Professor Love will provide to help you with the course will appear on this website.\nThe class begins on Thursday 2024-01-18 at 8:30 AM in Room 1217 of the Wolstein Research Building."
+    "text": "Welcome! PQHS 500 (also called CRSP 500) is taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Everything that Professor Love will provide to help you with the course will appear on this website.\nThe class begins on Thursday 2024-01-18 at 8:30 AM in Room 1217 of the Wolstein Research Building.\n\n\nThe menu bar includes links to just about everything you’ll need this semester, including\n\nthe course syllabus\nthe course calendar, which provides the final word on all class sessions and deadlines, and also provides links to the materials used in each class session.\ncourse assignment information, including labs, the Observational Studies in Action (OSIA) presentations of studies from the literature, and a semester-long project.\ninformation on software, including installation of R and RStudio, key R packages, downloading data (and code) you’ll need for the class.\nlinks to additional Sources (articles, etc.) that we’ll be reading this semester, or that I think might be helpful to you.\na link to the Canvas system (CWRU log-in required) we use for turning in some assignments and posting links to recordings,\ninformation about where you can get help with the course and contact Dr. Love, or the course teaching assistant, Leila Hojat.\n\n\n\n\nIn addition to exploring what’s available on this website, you should …\n\nBuy the book. During the course, we will read Paul Rosenbaum’s book Causal Inference, which is available as an e-book or in paperback for under $15. Please read through Chapter 2 before our first class on 2024-01-18, if you can.\nOnce you have registered for the course, please visit our Welcome to 500 survey. You’ll need to log into Google via CWRU to access the survey, which should take about 10 minutes to complete. Please complete the survey as soon as possible, ideally before our first class at 8:30 AM on 2024-01-18 in Wolstein Research Building room 1217.\nDownload the software. Install R and RStudio and some necessary R packages on a computer you can control throughout the semester. Details are available here.\n\n\n\n\nThe 431 Class Notes from Fall 2023 are here, and will be until 2024-06-01. The 432 Class Notes from Spring 2024 are here, and will be until 2024-06-01.\nIf you have any questions, email us"
   },
   {
     "objectID": "index.html#everything-you-need-is-linked-here",
     "href": "index.html#everything-you-need-is-linked-here",
     "title": "500 Main Page for Spring 2024",
-    "section": "Everything You Need Is Linked Here",
-    "text": "Everything You Need Is Linked Here\nThe menu bar includes links to just about everything you’ll need this semester, including\n\nthe course syllabus\nthe course calendar, which provides the final word on all class sessions and deadlines, and also provides links to the materials used in each class session.\ncourse assignment information, including labs, essays, the Observational Studies in Action (OSIA) presentations of studies from the literature, and a semester-long project.\ninformation on software, including installation of R and RStudio, key R packages, downloading data (and code) you’ll need for the class.\na link to the Canvas system (CWRU log-in required) we use for turning in some assignments and posting links to recordings,\ninformation about where you can get help and contact Dr. Love.\n\nI also provide some additional resources and references here."
+    "section": "",
+    "text": "The menu bar includes links to just about everything you’ll need this semester, including\n\nthe course syllabus\nthe course calendar, which provides the final word on all class sessions and deadlines, and also provides links to the materials used in each class session.\ncourse assignment information, including labs, the Observational Studies in Action (OSIA) presentations of studies from the literature, and a semester-long project.\ninformation on software, including installation of R and RStudio, key R packages, downloading data (and code) you’ll need for the class.\nlinks to additional Sources (articles, etc.) that we’ll be reading this semester, or that I think might be helpful to you.\na link to the Canvas system (CWRU log-in required) we use for turning in some assignments and posting links to recordings,\ninformation about where you can get help with the course and contact Dr. Love, or the course teaching assistant, Leila Hojat."
   },
   {
     "objectID": "index.html#what-should-i-do-before-class-begins",
     "href": "index.html#what-should-i-do-before-class-begins",
     "title": "500 Main Page for Spring 2024",
-    "section": "What Should I Do Before Class Begins?",
-    "text": "What Should I Do Before Class Begins?\nIn addition to exploring what’s available on this website, you should …\n\nBuy the book. During the course, we will read Paul Rosenbaum’s book Observation and Experiment: An Introduction to Causal Inference, which is available as an e-book or in paperback for under $40. Please read the Preface and Chapter 1 before our first class on XXXX.\nOnce you have registered for the course, please visit our Welcome to 500 survey. You’ll need to log into Google via CWRU to access the survey, which should take about 10 minutes to complete. Please complete the survey as soon as possible, ideally before our first class at 8:30 AM on 2024-01-18 in Wolstein Research Building room 1217.\nDownload the software. Install R and RStudio and some necessary R packages on a computer you can control throughout the semester. Details are available here."
+    "section": "",
+    "text": "In addition to exploring what’s available on this website, you should …\n\nBuy the book. During the course, we will read Paul Rosenbaum’s book Causal Inference, which is available as an e-book or in paperback for under $15. Please read through Chapter 2 before our first class on 2024-01-18, if you can.\nOnce you have registered for the course, please visit our Welcome to 500 survey. You’ll need to log into Google via CWRU to access the survey, which should take about 10 minutes to complete. Please complete the survey as soon as possible, ideally before our first class at 8:30 AM on 2024-01-18 in Wolstein Research Building room 1217.\nDownload the software. Install R and RStudio and some necessary R packages on a computer you can control throughout the semester. Details are available here."
   },
   {
     "objectID": "index.html#accessing-the-431-432-class-notes",
     "href": "index.html#accessing-the-431-432-class-notes",
     "title": "500 Main Page for Spring 2024",
-    "section": "Accessing the 431-432 Class Notes",
-    "text": "Accessing the 431-432 Class Notes\nThe 431 Class Notes from Fall 2023 are here, and will be until 2024-06-01. The 432 Class Notes from Spring 2023 are here, and will be until 2024-06-01.\nIf you have any questions, email Dr. Love"
+    "section": "",
+    "text": "The 431 Class Notes from Fall 2023 are here, and will be until 2024-06-01. The 432 Class Notes from Spring 2024 are here, and will be until 2024-06-01.\nIf you have any questions, email us"
   },
   {
     "objectID": "lab0.html",
@@ -452,7 +438,7 @@
     "href": "osia.html#what-makes-an-appropriate-study",
     "title": "Observational Studies in Action",
     "section": "What makes an appropriate study?",
-    "text": "What makes an appropriate study?\nAn appropriate study will\n\nuse (or at least primarily use) propensity score methods we will discuss in class (hence the need for Dr. Love’s pre-approval)\nbe a fully published manuscript, not a work in progress\nbe published since 2010 in a venue where a PDF file of the study itself and any appendix materials can be shared with the class (so journals that are available to all CWRU affiliates are preferable). Dr. Love encourages you to look for studies published after 2018.\nnot be one that you or your immediate supervisor have been involved in, and not be one that I have been involved in, in any capacity."
+    "text": "What makes an appropriate study?\nAn appropriate study will\n\nuse (or at least primarily use) propensity score methods we will discuss in class (hence the need for Dr. Love’s pre-approval)\nbe a fully published manuscript, not a work in progress\nbe published since 2010 in a venue where a PDF file of the study itself and any appendix materials can be shared with the class (so journals that are available to all CWRU affiliates are preferable). Dr. Love encourages you to look for studies published since 2018.\nnot be one that you or your immediate supervisor have been involved in, and not be one that I have been involved in, in any capacity."
   },
   {
     "objectID": "osia.html#claiming-a-study",

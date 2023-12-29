@@ -18,6 +18,8 @@ website:
         href: software.qmd
       - text: "Get Data"
         href: https://github.com/THOMASELOVE/500-data
+      - text: "Sources"
+        href: https://github.com/THOMASELOVE/500-sources
       - text: "Labs"
         menu: 
           - lab0.qmd
@@ -28,14 +30,12 @@ website:
           - lab5.qmd
       - text: "OSIA"
         href: osia.qmd
-      - text: "Essays"
-        href: essays.qmd
       - text: "Project"
         href: proj500.qmd
     right:
       - text: "Canvas"
         href: https://canvas.case.edu/
-      - text: "Contact Me"
+      - text: "Contact Us"
         href: contact.qmd
 
 format:

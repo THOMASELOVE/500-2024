@@ -2,8 +2,10 @@
 title: "Contact Us"
 ---
 
-If you have a question at any time, send it by email to Dr. Love at **Thomas dot Love at case dot edu**.
+Leila Hojat will also serve as a teaching assistant for this course, for which I am extremely grateful. Leila has taken the course in the past, and will be happy to help you with questions you have about R, about propensity scores, and about other course materials when I cannot.
 
 I will generally be available from 11 to Noon on Thursdays for informal office hours. Just let me know during the break in class if you're planning to chat with me after class.
+
+If you have a question at any time, send it by email to us at **500-help at case dot edu**.
 
 My additional information is part of the Course Syllabus.
