@@ -35,7 +35,7 @@ LINK | Date | Description
 *Project* | 02-21 | 9 AM: Project Proposal Draft 1 due to Canvas
 [Class 06](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class06) | 02-22 | **9 - 11 AM** Propensity Scores, IV <br /> Readings from [Sources](https://github.com/THOMASELOVE/500-sources): (1) Rubin 2001, (2) Rubin 2004
 *Lab 3* | 02-28 | 9 AM: Lab 3 due to Canvas
-[Class 07](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class07) | 02-29 | **9 - 11 AM** Propensity Scores, V <br /> Readings: **PRR CI** through Chapter 6, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Hansen 2004 <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) Huybrechts 2014
+[Class 07](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class07) | 02-29 | **9 - 11 AM** Propensity Scores, V <br /> Readings: **PRR CI** through Chapter 6, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Elbadawi 2021
 
 ## March 2024
 
