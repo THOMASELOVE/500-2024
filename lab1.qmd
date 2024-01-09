@@ -30,7 +30,7 @@ In the `sources` folder:
 
 In the `templates` folder:
 
-- a [Quarto template for Lab 1](https://github.com/THOMASELOVE/500-data/blob/master/templates/500lab1_template.qmd).
+- a [Quarto template for Lab 1](https://github.com/THOMASELOVE/500-data/blob/master/templates/500-lab1_template.qmd).
 
 Also, don't forget about the [Lab 0 example](lab0.qmd), which should be of some help in completing this Lab.
 
@@ -81,5 +81,5 @@ Now, **redo both Tasks 3 and 4** to describe this new sample and use it to fit a
 
 Use the model (`m2`) you built in Task 5 to add the fitted probability of previous myocardial infarction to the sample you used to create `m2`. 
 
-Produce an attractive and useful graphical summary of the distribution of fitted probabilities of previous myocardial infarction broken down into two categories by the patient's actual `PREVMI` status in this sample. I strongly encourage you to round the probabilities to two decimal places before visualizing them.
+Produce an attractive and useful graphical summary of the distribution of fitted probabilities of previous myocardial infarction broken down into two categories by the patient's actual `PREVMI` status in this sample. If needed, you should round the probabilities to two decimal places before visualizing them.
 

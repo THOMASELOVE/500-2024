@@ -14,7 +14,7 @@ This work uses a data set called `lab0.csv` (which is a comma-separated .csv fil
 
 ## Template for Lab 0
 
-We have provided a template for building a response to Lab 0, specifically a Quarto file containing some key bits of code which you can edit to produce a response. You'll find [the Lab 0 template](https://raw.githubusercontent.com/THOMASELOVE/500-data/master/templates/500lab0_template.qmd) in the templates folder at our [500-data web site](https://github.com/THOMASELOVE/500-data).
+We have provided a template for building a response to Lab 0, specifically a Quarto file containing some key bits of code which you can edit to produce a response. You'll find [the Lab 0 template](https://raw.githubusercontent.com/THOMASELOVE/500-data/master/templates/500-lab0_template.qmd) in the templates folder at our [500-data web site](https://github.com/THOMASELOVE/500-data).
 
 ## Answer Sketch for Lab 0
 
@@ -69,12 +69,13 @@ knitr::opts_chunk$set(comment = NA)
 library(janitor)
 library(tidyverse)
 
-lab0 <- read_csv("https://raw.githubusercontent.com/THOMASELOVE/500-data/master/data/lab0.csv",
-                 show_col_types = FALSE) |>
+url_0 <- "https://raw.githubusercontent.com/THOMASELOVE/500-data/master/data/lab0.csv"
+
+lab0 <- read_csv(url_0, show_col_types = FALSE) |>
     mutate(subject = as.character(subject),
            treatment = factor(treatment))
 
-glimpse(lab0)
+dim(lab0)
 ```
 
 ## A Hint for Task 1
@@ -82,7 +83,7 @@ glimpse(lab0)
 Partial R code you might use to do this work follows…
 
 ```{r}
-m1 <- glm(treatment=="Treated" ~ cov1 + cov2 + cov3 + cov4 + cov5,
+m1 <- glm((treatment=="Treated") ~ cov1 + cov2 + cov3 + cov4 + cov5,
           family=binomial(), data=lab0)
 
 lab0$linpred <- m1$linear.predictors
