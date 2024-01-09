@@ -8,7 +8,9 @@ date: last-modified
 - Submit your work via [Canvas](https://canvas.case.edu/). 
 - The deadline for this Lab is specified on the [Calendar](calendar.qmd).
 
-Your response should include a Quarto file (.qmd) and an HTML document that is the result of applying your Quarto file to the data we've provided. I haven't provided a template for this Lab.
+Your response should include a Quarto file (.qmd) and an HTML document that is the result of applying your Quarto file to the data we've provided. 
+
+I haven't provided a template for this Lab, but note that my sketch for Lab 3 starts by repeating everything from [Lab 2](lab2.qmd), and you may want to take a similar approach.
 
 ## Data
 
