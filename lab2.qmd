@@ -1,9 +1,6 @@
 ---
 title: "Lab 2"
 date: last-modified
-format: 
-  html:
-    code-overflow: wrap
 ---
 
 # General Instructions
@@ -13,48 +10,66 @@ format:
 
 Your response should include a Quarto file (.qmd) and an HTML document that is the result of applying your Quarto file to the data we've provided. I haven't provided a template for this Lab.
 
-## 1. Create a sample.
+## Data
 
-As in Lab 1, we use the `dig1.csv` data set. See Lab 1 for details on obtaining that data.
+Lab 2 uses the `canc3.csv` data file, which is available in the data folder on the [500-data web page](https://github.com/THOMASELOVE/500-data).
 
-Create a sample of 1000 subjects from the `dig1.csv` data describing the DIG study. Specify a random seed (via `set.seed`) to select your sample of 1000 subjects. Ensure that your sample does not include any subject who has missing information on the indicator of previous myocardial infarction, `PREVMI`. (You may want to identify such subjects in advance and filter them out of the dig1 data before you sample.)
+We have completed the data collection in a simulated study of 400 subjects with cancer, where 150 have received an intervention, while the remaining 250 received usual care control. The primary aims of the study are to learn about the impact of the intervention on patient survival and whether or not the patient enters hospice. 
 
-## 2. Create a Table 1.
+### The Codebook
 
-The Table 1 should describe the data according to whether or not the subject had a previous myocardial infarction (`PREVMI`) across each of these 12 variables. 
+The data file includes 400 observations, on 12 variables.
 
-Variable | Description
--------: | -----------------------------------------------------
-`TRTMT` | Treatment group (1 = DIG, 0 = Placebo)
-`AGE` | Age in years
-`RACE` | White (1) or Non-White (2)
-`SEX` | Male (1) or Female (2)
-`EJF_PER` | Ejection Fraction (percent)
-`CHESTX` | Chest X-ray (CT ratio)
-`BMI` | Body-Mass Index
-`KLEVEL` | Serum Potassium level (mEq/l)
-`CREAT` | Serum Creatinine level (mg/dl)
-`CHFDUR` | Approximate Duration of CHF (mos.)
-`EXERTDYS` | Dyspnea on exertion (see note)
-`FUNCTCLS` | Current NYHA Functional Class (1 = I, 2 = II, 3 = III, 4 = IV)
+Variable | Description | Notes
+----------: | -----------------| --------------------------------------------------------------------------------
+`subject` | Study ID number  | 1-250 are control, 251-400 are intervention
+`treated` | Treatment status | 1 = intervention (150), 0 = control (250)
+`age`     | Patient age      | At study entry, Observed range: 34, 93 years
+`female`  | Patient sex      | 1 = female (n = 258), 0 = male (n = 142)
+`race`    | Patient's race   | 1 = Caucasian / White (n = 317), 0 = not (n = 83)
+`married` | Marital status   | At study entry: 1 = Married (n = 245), 0 = not (n = 155)
+`typeca`  | Type of cancer   | 3 categories: 1 = GI/colorectal (n = 177), 2 = Lung (n = 129), 3 = GYN (n = 94). 
+`stprob`  | 5-year survival  | Model probability of 5-year survival, based on type and stage of cancer. Observed range: 0.01, 0.72
+`charlson` | Charlson score  | Comorbidity index at baseline: higher scores indicate greater comorbidity. Observed range: 0-7.
+`ecog`    | ECOG score       | 0 = fully active, 1 = restricted regarding physically strenuous activity, 2 = ambulatory, can self-care, otherwise limited, 3 = capable of only limited self-care.
+`alive`   | Mortality Status | Alive at study conclusion & 1 = alive (n = 245), 0 = dead (n = 155)
+`hospice` | Hospice Status | Entered hospice before death or study end & 1 = hospice (n = 143), 0 = no (n = 257)
 
-Note that the `dyspnea` categories are: 0 = None or Unknown, 1 = Present, 2 = Past, 3 = Present and Past
+Note: You are welcome to treat `ecog` and `charlson` as either quantitative or categorical variables in developing your response. 
 
-Be sure to correctly represent each of the categorical variables as factors, rather than in the numerical form they start in. Label your factors to ease the work for the viewer, and reduce or eliminate the need to look at a codebook. Also, be sure to accurately report whether any missing values are observed in this sample.
+## Task 1.
 
-*Note*: You're going to have to do this again with a revised sample in Task 4, so it's worth it to code this in a reproducible way.
+Ignoring the covariate information, provide an appropriate (unadjusted) estimate (with point estimate and 95\% confidence interval) of the effect of the intervention on each of the two binary outcomes; first survival, and then hospice entry. Be sure to describe the effect in English sentences, so that both the direction and magnitude are clear, and also be sure to specify the method you used in generating your estimates. 
 
-## 3. Build a logistic regression model.
+## Task 2. 
 
-Build a logistic regression model for previous MI using the main effects of the 12 variables above. I'd call the model `m1` that predicts the log odds of previous myocardial infarction (`PREVMI`) on the basis of the main effects of each of the twelve variables in your table above, for your sample of 1000 subjects. How many observations does your model actually fit results for? (This is asking for the number of subjects without any missing values, across all variables in your model.)
+Next, fit a propensity score model to the data, using the eight pieces of covariate information, including age, gender, race, marital status, cancer type (which must be treated in R as a factor rather than just a continuous predictor) the model survival probability, Charlson index and ECOG. Do not include interactions between terms.
 
-## 4. Redefine your sample and rebuild the Table and Model.
+## Task 3.
 
-Assuming you have at least one missing value in a predictor in your model for question 3, re-define your sample to include only the observations which are "complete cases" with no missing values on any of the key variables we're looking at. Specify the number of subjects (< 1000) that remain in your new sample. 
+Evaluate Rubin's Rule 1 and Rubin's Rule 2 for the data taken as a whole. What can you conclude about the balance across the two exposure groups prior to using the propensity score? What do these results suggest about your model in Task 1?
 
-Now, **redo both Tasks 2 and 3** to describe this new sample and use it to fit a model. Call the new model `m2`. Verify that missing values no longer plague this new model. 
+## Task 4.
 
-## 5. Add the fitted probabilities from Task 4 to your data, then plot them against observed status.
+Use direct adjustment for the (logit of) the propensity score in a logistic regression model for the `hospice` outcome to evaluate the intervention's effect on hospice entry, developing a point estimate (this should be an odds ratio) and a 95\% confidence interval. 
 
-Use the model (`m2`) you built in Task 4 to add the fitted probability of previous myocardial infarction to your sample used to create `m2`. Produce an attractive and useful graphical summary of the distribution of fitted probabilities of previous myocardial infarction broken down into two categories by the patient's actual `PREVMI` status in this sample. I suggest rounding the probabilities to two decimal places before graphing.
+## Task 5.
+
+In our first propensity score matching attempt with the `canc3` data, we'll apply a 1:1 match without replacement. Do the matching, and then evaluate the balance associated with this approach, as follows.
+
+### Task 5a.
+
+Evaluate the degree of covariate imbalance before and after propensity score matching for each of the eight covariates and for the (linear *and* raw) propensity score. Do so by plotting the standardized differences. Your plot should include standardized differences that identify the three cancer types (one remaining as baseline) individually, one each for any other covariates you treat as quantitative, and an appropriate set of indicators for any others you treat as categorical, plus one for the linear propensity score, and one for the raw propensity score.
+
+### Task 5b.
+
+Evaluate the balance imposed by your 1:1 match via calculation of Rubin's Rule 1 and Rule 2 results, and comparing them to our results obtained prior to propensity adjustment in  Task 3.
+
+### Task 5c.
+
+Finally, find a point estimate (and 95% confidence interval) for the effect of the treatment on the `hospice` outcome, based on your 1:1 match on the propensity score. Since the outcomes are binary, you should be using a conditional logistic regression to establish odds ratio estimates, while accounting for the pairs.
+
+## Task 6.
+
+Compare your unadjusted (Task 1), propensity score-adjusted (by regression: Task 4) and propensity matching (Task 5) estimates of the effect of the intervention on the `hospice` outcome in a table (or better, graph.) What can you conclude?
 

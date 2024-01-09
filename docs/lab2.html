@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2023-01-10">
+<meta name="dcterms.date" content="2024-01-09">
 
 <title>500-2024 - Lab 2</title>
 <style>
@@ -130,10 +130,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./lab4.html" rel="" target="">
  <span class="dropdown-text">Lab 4</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./lab5.html" rel="" target="">
- <span class="dropdown-text">Lab 5</span></a>
-  </li>  
     </ul>
   </li>
   <li class="nav-item">
@@ -172,11 +168,21 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#general-instructions" id="toc-general-instructions" class="nav-link active" data-scroll-target="#general-instructions">General Instructions</a>
   <ul class="collapse">
-  <li><a href="#create-a-sample." id="toc-create-a-sample." class="nav-link" data-scroll-target="#create-a-sample.">1. Create a sample.</a></li>
-  <li><a href="#create-a-table-1." id="toc-create-a-table-1." class="nav-link" data-scroll-target="#create-a-table-1.">2. Create a Table 1.</a></li>
-  <li><a href="#build-a-logistic-regression-model." id="toc-build-a-logistic-regression-model." class="nav-link" data-scroll-target="#build-a-logistic-regression-model.">3. Build a logistic regression model.</a></li>
-  <li><a href="#redefine-your-sample-and-rebuild-the-table-and-model." id="toc-redefine-your-sample-and-rebuild-the-table-and-model." class="nav-link" data-scroll-target="#redefine-your-sample-and-rebuild-the-table-and-model.">4. Redefine your sample and rebuild the Table and Model.</a></li>
-  <li><a href="#add-the-fitted-probabilities-from-task-4-to-your-data-then-plot-them-against-observed-status." id="toc-add-the-fitted-probabilities-from-task-4-to-your-data-then-plot-them-against-observed-status." class="nav-link" data-scroll-target="#add-the-fitted-probabilities-from-task-4-to-your-data-then-plot-them-against-observed-status.">5. Add the fitted probabilities from Task 4 to your data, then plot them against observed status.</a></li>
+  <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data">Data</a>
+  <ul class="collapse">
+  <li><a href="#the-codebook" id="toc-the-codebook" class="nav-link" data-scroll-target="#the-codebook">The Codebook</a></li>
+  </ul></li>
+  <li><a href="#task-1." id="toc-task-1." class="nav-link" data-scroll-target="#task-1.">Task 1.</a></li>
+  <li><a href="#task-2." id="toc-task-2." class="nav-link" data-scroll-target="#task-2.">Task 2.</a></li>
+  <li><a href="#task-3." id="toc-task-3." class="nav-link" data-scroll-target="#task-3.">Task 3.</a></li>
+  <li><a href="#task-4." id="toc-task-4." class="nav-link" data-scroll-target="#task-4.">Task 4.</a></li>
+  <li><a href="#task-5." id="toc-task-5." class="nav-link" data-scroll-target="#task-5.">Task 5.</a>
+  <ul class="collapse">
+  <li><a href="#task-5a." id="toc-task-5a." class="nav-link" data-scroll-target="#task-5a.">Task 5a.</a></li>
+  <li><a href="#task-5b." id="toc-task-5b." class="nav-link" data-scroll-target="#task-5b.">Task 5b.</a></li>
+  <li><a href="#task-5c." id="toc-task-5c." class="nav-link" data-scroll-target="#task-5c.">Task 5c.</a></li>
+  </ul></li>
+  <li><a href="#task-6." id="toc-task-6." class="nav-link" data-scroll-target="#task-6.">Task 6.</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -197,7 +203,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2023-01-10</p>
+      <p class="date">2024-01-09</p>
     </div>
   </div>
   
@@ -214,92 +220,127 @@ ul.task-list li input[type="checkbox"] {
 <li>The deadline for this Lab is specified on the <a href="./calendar.html">Calendar</a>.</li>
 </ul>
 <p>Your response should include a Quarto file (.qmd) and an HTML document that is the result of applying your Quarto file to the data we’ve provided. I haven’t provided a template for this Lab.</p>
-<section id="create-a-sample." class="level2">
-<h2 class="anchored" data-anchor-id="create-a-sample.">1. Create a sample.</h2>
-<p>As in Lab 1, we use the <code>dig1.csv</code> data set. See Lab 1 for details on obtaining that data.</p>
-<p>Create a sample of 1000 subjects from the <code>dig1.csv</code> data describing the DIG study. Specify a random seed (via <code>set.seed</code>) to select your sample of 1000 subjects. Ensure that your sample does not include any subject who has missing information on the indicator of previous myocardial infarction, <code>PREVMI</code>. (You may want to identify such subjects in advance and filter them out of the dig1 data before you sample.)</p>
-</section>
-<section id="create-a-table-1." class="level2">
-<h2 class="anchored" data-anchor-id="create-a-table-1.">2. Create a Table 1.</h2>
-<p>The Table 1 should describe the data according to whether or not the subject had a previous myocardial infarction (<code>PREVMI</code>) across each of these 12 variables.</p>
+<section id="data" class="level2">
+<h2 class="anchored" data-anchor-id="data">Data</h2>
+<p>Lab 2 uses the <code>canc3.csv</code> data file, which is available in the data folder on the <a href="https://github.com/THOMASELOVE/500-data">500-data web page</a>.</p>
+<p>We have completed the data collection in a simulated study of 400 subjects with cancer, where 150 have received an intervention, while the remaining 250 received usual care control. The primary aims of the study are to learn about the impact of the intervention on patient survival and whether or not the patient enters hospice.</p>
+<section id="the-codebook" class="level3">
+<h3 class="anchored" data-anchor-id="the-codebook">The Codebook</h3>
+<p>The data file includes 400 observations, on 12 variables.</p>
 <table class="table">
 <colgroup>
-<col style="width: 13%">
-<col style="width: 86%">
+<col style="width: 10%">
+<col style="width: 15%">
+<col style="width: 74%">
 </colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: right;">Variable</th>
 <th>Description</th>
+<th>Notes</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: right;"><code>TRTMT</code></td>
-<td>Treatment group (1 = DIG, 0 = Placebo)</td>
+<td style="text-align: right;"><code>subject</code></td>
+<td>Study ID number</td>
+<td>1-250 are control, 251-400 are intervention</td>
 </tr>
 <tr class="even">
-<td style="text-align: right;"><code>AGE</code></td>
-<td>Age in years</td>
+<td style="text-align: right;"><code>treated</code></td>
+<td>Treatment status</td>
+<td>1 = intervention (150), 0 = control (250)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: right;"><code>RACE</code></td>
-<td>White (1) or Non-White (2)</td>
+<td style="text-align: right;"><code>age</code></td>
+<td>Patient age</td>
+<td>At study entry, Observed range: 34, 93 years</td>
 </tr>
 <tr class="even">
-<td style="text-align: right;"><code>SEX</code></td>
-<td>Male (1) or Female (2)</td>
+<td style="text-align: right;"><code>female</code></td>
+<td>Patient sex</td>
+<td>1 = female (n = 258), 0 = male (n = 142)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: right;"><code>EJF_PER</code></td>
-<td>Ejection Fraction (percent)</td>
+<td style="text-align: right;"><code>race</code></td>
+<td>Patient’s race</td>
+<td>1 = Caucasian / White (n = 317), 0 = not (n = 83)</td>
 </tr>
 <tr class="even">
-<td style="text-align: right;"><code>CHESTX</code></td>
-<td>Chest X-ray (CT ratio)</td>
+<td style="text-align: right;"><code>married</code></td>
+<td>Marital status</td>
+<td>At study entry: 1 = Married (n = 245), 0 = not (n = 155)</td>
 </tr>
 <tr class="odd">
-<td style="text-align: right;"><code>BMI</code></td>
-<td>Body-Mass Index</td>
+<td style="text-align: right;"><code>typeca</code></td>
+<td>Type of cancer</td>
+<td>3 categories: 1 = GI/colorectal (n = 177), 2 = Lung (n = 129), 3 = GYN (n = 94).</td>
 </tr>
 <tr class="even">
-<td style="text-align: right;"><code>KLEVEL</code></td>
-<td>Serum Potassium level (mEq/l)</td>
+<td style="text-align: right;"><code>stprob</code></td>
+<td>5-year survival</td>
+<td>Model probability of 5-year survival, based on type and stage of cancer. Observed range: 0.01, 0.72</td>
 </tr>
 <tr class="odd">
-<td style="text-align: right;"><code>CREAT</code></td>
-<td>Serum Creatinine level (mg/dl)</td>
+<td style="text-align: right;"><code>charlson</code></td>
+<td>Charlson score</td>
+<td>Comorbidity index at baseline: higher scores indicate greater comorbidity. Observed range: 0-7.</td>
 </tr>
 <tr class="even">
-<td style="text-align: right;"><code>CHFDUR</code></td>
-<td>Approximate Duration of CHF (mos.)</td>
+<td style="text-align: right;"><code>ecog</code></td>
+<td>ECOG score</td>
+<td>0 = fully active, 1 = restricted regarding physically strenuous activity, 2 = ambulatory, can self-care, otherwise limited, 3 = capable of only limited self-care.</td>
 </tr>
 <tr class="odd">
-<td style="text-align: right;"><code>EXERTDYS</code></td>
-<td>Dyspnea on exertion (see note)</td>
+<td style="text-align: right;"><code>alive</code></td>
+<td>Mortality Status</td>
+<td>Alive at study conclusion &amp; 1 = alive (n = 245), 0 = dead (n = 155)</td>
 </tr>
 <tr class="even">
-<td style="text-align: right;"><code>FUNCTCLS</code></td>
-<td>Current NYHA Functional Class (1 = I, 2 = II, 3 = III, 4 = IV)</td>
+<td style="text-align: right;"><code>hospice</code></td>
+<td>Hospice Status</td>
+<td>Entered hospice before death or study end &amp; 1 = hospice (n = 143), 0 = no (n = 257)</td>
 </tr>
 </tbody>
 </table>
-<p>Note that the <code>dyspnea</code> categories are: 0 = None or Unknown, 1 = Present, 2 = Past, 3 = Present and Past</p>
-<p>Be sure to correctly represent each of the categorical variables as factors, rather than in the numerical form they start in. Label your factors to ease the work for the viewer, and reduce or eliminate the need to look at a codebook. Also, be sure to accurately report whether any missing values are observed in this sample.</p>
-<p><em>Note</em>: You’re going to have to do this again with a revised sample in Task 4, so it’s worth it to code this in a reproducible way.</p>
+<p>Note: You are welcome to treat <code>ecog</code> and <code>charlson</code> as either quantitative or categorical variables in developing your response.</p>
 </section>
-<section id="build-a-logistic-regression-model." class="level2">
-<h2 class="anchored" data-anchor-id="build-a-logistic-regression-model.">3. Build a logistic regression model.</h2>
-<p>Build a logistic regression model for previous MI using the main effects of the 12 variables above. I’d call the model <code>m1</code> that predicts the log odds of previous myocardial infarction (<code>PREVMI</code>) on the basis of the main effects of each of the twelve variables in your table above, for your sample of 1000 subjects. How many observations does your model actually fit results for? (This is asking for the number of subjects without any missing values, across all variables in your model.)</p>
 </section>
-<section id="redefine-your-sample-and-rebuild-the-table-and-model." class="level2">
-<h2 class="anchored" data-anchor-id="redefine-your-sample-and-rebuild-the-table-and-model.">4. Redefine your sample and rebuild the Table and Model.</h2>
-<p>Assuming you have at least one missing value in a predictor in your model for question 3, re-define your sample to include only the observations which are “complete cases” with no missing values on any of the key variables we’re looking at. Specify the number of subjects (&lt; 1000) that remain in your new sample.</p>
-<p>Now, <strong>redo both Tasks 2 and 3</strong> to describe this new sample and use it to fit a model. Call the new model <code>m2</code>. Verify that missing values no longer plague this new model.</p>
+<section id="task-1." class="level2">
+<h2 class="anchored" data-anchor-id="task-1.">Task 1.</h2>
+<p>Ignoring the covariate information, provide an appropriate (unadjusted) estimate (with point estimate and 95% confidence interval) of the effect of the intervention on each of the two binary outcomes; first survival, and then hospice entry. Be sure to describe the effect in English sentences, so that both the direction and magnitude are clear, and also be sure to specify the method you used in generating your estimates.</p>
 </section>
-<section id="add-the-fitted-probabilities-from-task-4-to-your-data-then-plot-them-against-observed-status." class="level2">
-<h2 class="anchored" data-anchor-id="add-the-fitted-probabilities-from-task-4-to-your-data-then-plot-them-against-observed-status.">5. Add the fitted probabilities from Task 4 to your data, then plot them against observed status.</h2>
-<p>Use the model (<code>m2</code>) you built in Task 4 to add the fitted probability of previous myocardial infarction to your sample used to create <code>m2</code>. Produce an attractive and useful graphical summary of the distribution of fitted probabilities of previous myocardial infarction broken down into two categories by the patient’s actual <code>PREVMI</code> status in this sample. I suggest rounding the probabilities to two decimal places before graphing.</p>
+<section id="task-2." class="level2">
+<h2 class="anchored" data-anchor-id="task-2.">Task 2.</h2>
+<p>Next, fit a propensity score model to the data, using the eight pieces of covariate information, including age, gender, race, marital status, cancer type (which must be treated in R as a factor rather than just a continuous predictor) the model survival probability, Charlson index and ECOG. Do not include interactions between terms.</p>
+</section>
+<section id="task-3." class="level2">
+<h2 class="anchored" data-anchor-id="task-3.">Task 3.</h2>
+<p>Evaluate Rubin’s Rule 1 and Rubin’s Rule 2 for the data taken as a whole. What can you conclude about the balance across the two exposure groups prior to using the propensity score? What do these results suggest about your model in Task 1?</p>
+</section>
+<section id="task-4." class="level2">
+<h2 class="anchored" data-anchor-id="task-4.">Task 4.</h2>
+<p>Use direct adjustment for the (logit of) the propensity score in a logistic regression model for the <code>hospice</code> outcome to evaluate the intervention’s effect on hospice entry, developing a point estimate (this should be an odds ratio) and a 95% confidence interval.</p>
+</section>
+<section id="task-5." class="level2">
+<h2 class="anchored" data-anchor-id="task-5.">Task 5.</h2>
+<p>In our first propensity score matching attempt with the <code>canc3</code> data, we’ll apply a 1:1 match without replacement. Do the matching, and then evaluate the balance associated with this approach, as follows.</p>
+<section id="task-5a." class="level3">
+<h3 class="anchored" data-anchor-id="task-5a.">Task 5a.</h3>
+<p>Evaluate the degree of covariate imbalance before and after propensity score matching for each of the eight covariates and for the (linear <em>and</em> raw) propensity score. Do so by plotting the standardized differences. Your plot should include standardized differences that identify the three cancer types (one remaining as baseline) individually, one each for any other covariates you treat as quantitative, and an appropriate set of indicators for any others you treat as categorical, plus one for the linear propensity score, and one for the raw propensity score.</p>
+</section>
+<section id="task-5b." class="level3">
+<h3 class="anchored" data-anchor-id="task-5b.">Task 5b.</h3>
+<p>Evaluate the balance imposed by your 1:1 match via calculation of Rubin’s Rule 1 and Rule 2 results, and comparing them to our results obtained prior to propensity adjustment in Task 3.</p>
+</section>
+<section id="task-5c." class="level3">
+<h3 class="anchored" data-anchor-id="task-5c.">Task 5c.</h3>
+<p>Finally, find a point estimate (and 95% confidence interval) for the effect of the treatment on the <code>hospice</code> outcome, based on your 1:1 match on the propensity score. Since the outcomes are binary, you should be using a conditional logistic regression to establish odds ratio estimates, while accounting for the pairs.</p>
+</section>
+</section>
+<section id="task-6." class="level2">
+<h2 class="anchored" data-anchor-id="task-6.">Task 6.</h2>
+<p>Compare your unadjusted (Task 1), propensity score-adjusted (by regression: Task 4) and propensity matching (Task 5) estimates of the effect of the intervention on the <code>hospice</code> outcome in a table (or better, graph.) What can you conclude?</p>
 
 
 </section>

@@ -3,10 +3,6 @@ title: "Course Project Instructions"
 date: last-modified
 ---
 
-## New! Schedule
-
-[The presentation schedule is here](https://github.com/THOMASELOVE/500-projects-2023/blob/main/schedule.md).
-
 # Overview
 
 As a substantial part of your course grade, you will complete a small observational study comparing two exposures on one or more outcome(s) in time to generate an abstract, give a presentation, and complete a thorough written discussion using Quarto.
@@ -347,13 +343,13 @@ The final set of deliverables includes five key items:
 2. Updated **Slides** with necessary corrections or amplifications to that presented in class (again, if there are no changes, please submit this anyway and indicate that you have made no changes.)
 3. A copy of the **Data Set** (as a .csv file) or, if that is impossible, a dummy data set containing all variables used in your analyses, and a single, representative (though possibly disguised) row of data,
 4. an especially well-annotated **Quarto** file that takes your submitted data set and flawlessly produces a document containing all of the analyses described in your abstract, slides or discussion, and
-5. an **HTML version** of the results of running youQuarto file, which is described further below.
+5. an **HTML version** of the results of running your Quarto file, which is described further below.
 
-Note that youQuarto/HTML file should produce a readable discussion of your entire project.
+Note that your Quarto/HTML file should produce a readable discussion of your entire project.
 
 - This discussion should describe both your analyses and conclusions in a larger context and describe implications of your current work, and potential future work, likely in more detail than you will be able to provide in your presentation. 
 - Include a paragraph (or more) at the end of this discussion specifying what you learned from doing this project, and what you still need to learn in order to complete your study to your satisfaction.
-- You may incorporate as many figures as are crucial in your discussion, but edit youQuarto file to only produce the plots and output you intend to comment on, certainly including anything that is included in your Abstract or Slides, but also potentially including other things that did not make it into those pieces. 
+- You may incorporate as many figures as are crucial in your discussion, but edit your Quarto file to only produce the plots and output you intend to comment on, certainly including anything that is included in your Abstract or Slides, but also potentially including other things that did not make it into those pieces. 
 - Frank Harrell's [Manuscript Checklist of Statistical Problems to Detect and Avoid](https://discourse.datamethods.org/t/author-checklist/3407) may be helpful.
 
 

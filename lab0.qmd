@@ -8,15 +8,13 @@ format:
 
 # What is this?
 
-500 Lab 0 is an Example with instructions. Your task for Lab 0 is to read over these materials and see if they help you answer the questions that arise in generating your responses to your actual Lab assignments (Lab 1 - Lab 5) this semester. It's not a bad idea to try to build a response yourself, and then check it against my solution before we meet in Class 02, but there's **nothing for you to turn in here**.
-
-In earlier versions of this course, this was an actual assignment, as described below. Looking it over should be helpful in doing your work this semester, especially for those of you who aren’t simultaneously taking another course with me.
+500 Lab 0 is an Example with instructions, meant to help you get started on other Labs. Your task for Lab 0 is to read over these materials and see if they help you answer the questions that arise in generating your responses to your actual Lab assignments (Lab 1 - Lab 4) this semester. It's not a bad idea to try to build a response yourself, and then check it against my solution, but there's **nothing for you to turn in here**.
 
 This work uses a data set called `lab0.csv` (which is a comma-separated .csv file suitable for reading into R.) You’ll find this in the data folder at our [500-data web site](https://github.com/THOMASELOVE/500-data).
 
 ## Template for Lab 0
 
-We have provided a template for building a response to Lab 0, specifically a Quarto file containing some key bits of code which you can edit to produce a response. You'll find the Lab 0 template in the templates folder at our [500-data web site](https://github.com/THOMASELOVE/500-data).
+We have provided a template for building a response to Lab 0, specifically a Quarto file containing some key bits of code which you can edit to produce a response. You'll find [the Lab 0 template](https://raw.githubusercontent.com/THOMASELOVE/500-data/master/templates/500lab0_template.qmd) in the templates folder at our [500-data web site](https://github.com/THOMASELOVE/500-data).
 
 ## Answer Sketch for Lab 0
 
@@ -40,7 +38,7 @@ If you are confused by the assignment, or stuck in the development of your respo
 
 ## The Data
 
-The **lab0.csv** data file is available on [the 500-data web site](https://github.com/THOMASELOVE/500-data).
+The [**lab0.csv** data file](https://raw.githubusercontent.com/THOMASELOVE/500-data/master/data/lab0.csv) is available on [the 500-data web site](https://github.com/THOMASELOVE/500-data). Remember to download the **raw** version of the `.csv` file.
 
 The file includes 135 subjects, the first 40 of whom have received a particular **treatment** and the remaining 95 of whom have not received it.
 

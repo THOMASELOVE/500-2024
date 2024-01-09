@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2023-01-10">
+<meta name="dcterms.date" content="2024-01-09">
 
 <title>500-2024 - Lab 1</title>
 <style>
@@ -130,10 +130,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./lab4.html" rel="" target="">
  <span class="dropdown-text">Lab 4</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./lab5.html" rel="" target="">
- <span class="dropdown-text">Lab 5</span></a>
-  </li>  
     </ul>
   </li>
   <li class="nav-item">
@@ -172,15 +168,12 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#general-instructions" id="toc-general-instructions" class="nav-link active" data-scroll-target="#general-instructions">General Instructions</a>
   <ul class="collapse">
-  <li><a href="#template" id="toc-template" class="nav-link" data-scroll-target="#template">Template</a></li>
-  <li><a href="#our-best-advice" id="toc-our-best-advice" class="nav-link" data-scroll-target="#our-best-advice">Our Best Advice</a></li>
   <li><a href="#get-access-to-the-dig-training-data" id="toc-get-access-to-the-dig-training-data" class="nav-link" data-scroll-target="#get-access-to-the-dig-training-data">1. Get access to the DIG training data</a></li>
-  <li><a href="#build-a-mock-proposal-for-a-dig-observational-study" id="toc-build-a-mock-proposal-for-a-dig-observational-study" class="nav-link" data-scroll-target="#build-a-mock-proposal-for-a-dig-observational-study">2. Build a mock proposal for a DIG observational study</a>
-  <ul class="collapse">
-  <li><a href="#questions-to-be-addressed-in-the-mock-proposals" id="toc-questions-to-be-addressed-in-the-mock-proposals" class="nav-link" data-scroll-target="#questions-to-be-addressed-in-the-mock-proposals">Questions to be addressed in the Mock Proposals</a></li>
-  </ul></li>
-  <li><a href="#build-and-evaluate-a-logistic-regression-model-using-dig-data" id="toc-build-and-evaluate-a-logistic-regression-model-using-dig-data" class="nav-link" data-scroll-target="#build-and-evaluate-a-logistic-regression-model-using-dig-data">3. Build and evaluate a logistic regression model using DIG data</a></li>
-  <li><a href="#be-sure-to-include-session-information" id="toc-be-sure-to-include-session-information" class="nav-link" data-scroll-target="#be-sure-to-include-session-information">Be sure to include Session Information</a></li>
+  <li><a href="#create-a-sample." id="toc-create-a-sample." class="nav-link" data-scroll-target="#create-a-sample.">2. Create a sample.</a></li>
+  <li><a href="#create-a-table-1." id="toc-create-a-table-1." class="nav-link" data-scroll-target="#create-a-table-1.">3. Create a Table 1.</a></li>
+  <li><a href="#build-a-logistic-regression-model." id="toc-build-a-logistic-regression-model." class="nav-link" data-scroll-target="#build-a-logistic-regression-model.">4. Build a logistic regression model.</a></li>
+  <li><a href="#redefine-your-sample-and-rebuild-the-table-and-model." id="toc-redefine-your-sample-and-rebuild-the-table-and-model." class="nav-link" data-scroll-target="#redefine-your-sample-and-rebuild-the-table-and-model.">5. Redefine your sample and rebuild the Table and Model.</a></li>
+  <li><a href="#add-the-fitted-probabilities-from-task-5-to-your-data-then-plot-them-against-observed-status." id="toc-add-the-fitted-probabilities-from-task-5-to-your-data-then-plot-them-against-observed-status." class="nav-link" data-scroll-target="#add-the-fitted-probabilities-from-task-5-to-your-data-then-plot-them-against-observed-status.">6. Add the fitted probabilities from Task 5 to your data, then plot them against observed status.</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -201,7 +194,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2023-01-10</p>
+      <p class="date">2024-01-09</p>
     </div>
   </div>
   
@@ -217,74 +210,114 @@ ul.task-list li input[type="checkbox"] {
 <li>Submit your work via <a href="https://canvas.case.edu/">Canvas</a>.</li>
 <li>The deadline for this Lab is specified on the <a href="./calendar.html">Calendar</a>.</li>
 </ul>
-<p>Your response should include a Quarto file (.qmd) and an HTML document that is the result of applying your Quarto file to the data we’ve provided.</p>
-<section id="template" class="level2">
-<h2 class="anchored" data-anchor-id="template">Template</h2>
-<p>There is a <strong>Lab 1 Quarto template</strong> available on <a href="https://github.com/THOMASELOVE/500-data">our 500-data page</a>. Please use the template to prepare your response to Lab 1.</p>
-</section>
-<section id="our-best-advice" class="level2">
-<h2 class="anchored" data-anchor-id="our-best-advice">Our Best Advice</h2>
-<p>Review your HTML output file carefully before submission for copy-editing issues (spelling, grammar and syntax.) Even with spell-check in RStudio (just hit F7), it’s hard to find errors with these issues in your Quarto file so long as it is running. You really need to look closely at the resulting HTML output.</p>
-</section>
+<p>Your response should include both a Quarto file (.qmd) and an HTML document that is the result of applying your Quarto file to the data we’ve provided. A good name for these files would begin with <code>YOUR_NAME_500Lab1_DATE</code>, for instance, <code>Pat_Smith_500Lab1_2024-02-01.qmd</code></p>
 <section id="get-access-to-the-dig-training-data" class="level2">
 <h2 class="anchored" data-anchor-id="get-access-to-the-dig-training-data">1. Get access to the DIG training data</h2>
 <p>Visit https://biolincc.nhlbi.nih.gov/teaching/ and request copies of the DIG “teaching” data set.</p>
-</section>
-<section id="build-a-mock-proposal-for-a-dig-observational-study" class="level2">
-<h2 class="anchored" data-anchor-id="build-a-mock-proposal-for-a-dig-observational-study">2. Build a mock proposal for a DIG observational study</h2>
-<p>Review the documentation available to you on the BIOLINCC page, and complete a <strong>mock proposal</strong> not to exceed 300 words for an observational study based on the available data from the DIG randomized trial. A list of questions you should address follows below.</p>
-<p>To help you build a response, you will find the following items on our <a href="https://github.com/THOMASELOVE/500-data">500-data site</a>.</p>
+<p>To help you get started while you wait for this information, you will find the following items on our <a href="https://github.com/THOMASELOVE/500-data">500-data site</a>.</p>
 <p>In the <code>data</code> folder:</p>
 <ul>
-<li>a .csv file (<code>dig1.csv</code>) of <a href="https://github.com/THOMASELOVE/500-2022/tree/main/labs/lab1/data">the DIG data set</a> you will obtain from NIH/BIOLINCC</li>
+<li>a .csv file (<code>dig1.csv</code>) of <a href="https://raw.githubusercontent.com/THOMASELOVE/500-data/master/data/dig1.csv">the DIG data set</a> you will obtain from NIH/BIOLINCC</li>
 </ul>
 <p>In the <code>sources</code> folder:</p>
 <ul>
 <li>a <a href="https://github.com/THOMASELOVE/500-data/blob/master/sources/dig_documentation_with_supplement.pdf">PDF of the DIG data description</a>.</li>
 <li>the <a href="https://github.com/THOMASELOVE/500-data/blob/master/sources/dig_NEJM_1997.pdf">original 1997 publication</a> in the <em>New England Journal of Medicine</em> by the Digitalis Investigation Group.</li>
 </ul>
-<section id="questions-to-be-addressed-in-the-mock-proposals" class="level3">
-<h3 class="anchored" data-anchor-id="questions-to-be-addressed-in-the-mock-proposals">Questions to be addressed in the Mock Proposals</h3>
-<ol type="1">
-<li>What comparison do you want to make? (Select a comparison different than the one made in the original DIG paper)
+<p>In the <code>templates</code> folder:</p>
 <ul>
-<li>Did patients receiving “EXPOSURE A” have lower rates of “BAD OUTCOME” than those who received “EXPOSURE B”?</li>
-</ul></li>
-<li>Why is this of interest?
-<ul>
-<li>“OUTCOME” is important because …</li>
-<li>“EXPOSURE” (A or B) is important because …</li>
-<li>(<em>Be sure to clearly indicate what you hypothesize the effect of EXPOSURE on OUTCOME to be.</em>)</li>
-</ul></li>
-<li>What are the key measures - specifically, the exposure/treatment, the primary outcome, and important covariates that are available in the data to help address your question of interest?
-<ul>
-<li>Exposure/Treatment = A or B, and be sure to specify the way in which you will know which exposure someone receives, and whether the exposure / treatment is applied using a randomized approach, or not.</li>
-<li>Outcome = …, and be sure to specify the variables you will use to determine the outcome, as well as the <em>type</em> of outcome, be it continuous, categorical (and if categorical, binary or multi-categorical) or survival (and if survival, is censoring involved?)</li>
-<li>Covariates of interest: We’d be interested in anything related to treatment choice or to outcome. You should provide a list of such variables of interest. Remember to include <strong>ONLY</strong> things which are measured prior to the exposure/treatment of interest, or which are not possibly changed by it.</li>
-</ul></li>
-</ol>
-<p>Note that I’m <strong>NOT</strong> asking you to do any analyses in Question 2.</p>
-</section>
-</section>
-<section id="build-and-evaluate-a-logistic-regression-model-using-dig-data" class="level2">
-<h2 class="anchored" data-anchor-id="build-and-evaluate-a-logistic-regression-model-using-dig-data">3. Build and evaluate a logistic regression model using DIG data</h2>
-<p>Use R, R Studio and R Markdown to execute a logistic regression model on the <code>dig1.csv</code> data.</p>
-<p>Your model should be fitted to a random training sample of 5,000 subjects (be sure to specify the seed you used to select that sample) and then tested on the remaining 1,800 subjects, but you’ll probably want to check for and deal with missingness in the entire sample before splitting into training and test groups. <em>In this case, “dealing with missingness” could be via imputation, as I’d like you to do in the rest of this semester’s assignments, or by more simply developing a complete-case analysis.</em> Your model will predict the probability that a subject in the study will die (all causes), based on:</p>
-<ul>
-<li>the subject’s assigned treatment (digoxin or placebo),</li>
-<li>the subject’s age at randomization,</li>
-<li>race,</li>
-<li>sex,</li>
-<li>ejection fraction (percent),</li>
-<li>calculated body mass index,</li>
-<li>NYHA functional class, and</li>
-<li>whether or not the subject currently has angina.</li>
+<li>a <a href="https://github.com/THOMASELOVE/500-data/blob/master/templates/500lab1_template.qmd">Quarto template for Lab 1</a>.</li>
 </ul>
-<p>The relevant variables in the <code>dig1.csv</code> data set are therefore: <code>subjectid</code>, <code>DEATH</code>, <code>TRTMT</code>, <code>AGE</code>, <code>RACE</code>, <code>SEX</code>, <code>EJF_PER</code>, <code>BMI</code>, <code>FUNCTCLS</code>, and <code>ANGINA</code>.</p>
+<p>Also, don’t forget about the <a href="./lab0.html">Lab 0 example</a>, which should be of some help in completing this Lab.</p>
 </section>
-<section id="be-sure-to-include-session-information" class="level2">
-<h2 class="anchored" data-anchor-id="be-sure-to-include-session-information">Be sure to include Session Information</h2>
-<p>Please display your session information at the end of your submission, using the code in the template.</p>
+<section id="create-a-sample." class="level2">
+<h2 class="anchored" data-anchor-id="create-a-sample.">2. Create a sample.</h2>
+<p>Identify the subjects within the <code>dig1.csv</code> data which have complete information on the indicator of previous myocardial infarction, <code>PREVMI</code>. Filter the data set to include only those subjects.</p>
+<p>Then select a sample of 1000 subjects from DIG study participants with known <code>PREVMI</code>. Specify your sampling seed (via <code>set.seed</code>) to be <code>2024500</code> as part of selecting your sample of 1000 subjects.</p>
+</section>
+<section id="create-a-table-1." class="level2">
+<h2 class="anchored" data-anchor-id="create-a-table-1.">3. Create a Table 1.</h2>
+<p>The Table 1 should describe the data according to whether or not the subject had a previous myocardial infarction (<code>PREVMI</code>) across each of these 12 variables.</p>
+<table class="table">
+<colgroup>
+<col style="width: 13%">
+<col style="width: 86%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: right;">Variable</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;"><code>TRTMT</code></td>
+<td>Treatment group (1 = DIG, 0 = Placebo)</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"><code>AGE</code></td>
+<td>Age in years</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;"><code>RACE</code></td>
+<td>White (1) or Non-White (2)</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"><code>SEX</code></td>
+<td>Male (1) or Female (2)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;"><code>EJF_PER</code></td>
+<td>Ejection Fraction (percent)</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"><code>CHESTX</code></td>
+<td>Chest X-ray (CT ratio)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;"><code>BMI</code></td>
+<td>Body-Mass Index</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"><code>KLEVEL</code></td>
+<td>Serum Potassium level (mEq/l)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;"><code>CREAT</code></td>
+<td>Serum Creatinine level (mg/dl)</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"><code>CHFDUR</code></td>
+<td>Approximate Duration of CHF (mos.)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;"><code>EXERTDYS</code></td>
+<td>Dyspnea on exertion (see note)</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;"><code>FUNCTCLS</code></td>
+<td>Current NYHA Functional Class (1 = I, 2 = II, 3 = III, 4 = IV)</td>
+</tr>
+</tbody>
+</table>
+<p>Note that the <code>dyspnea</code> categories are: 0 = None or Unknown, 1 = Present, 2 = Past, 3 = Present and Past</p>
+<p>Be sure to correctly represent each of the categorical variables as factors, rather than in the numerical form they start in. Label your factors to ease the work for the viewer, and reduce or eliminate the need to look at a codebook. Also, be sure to accurately report whether any missing values are observed in this sample.</p>
+<p><em>Note</em>: You’re going to have to do this again with a revised sample later in this Lab, so it’s worth it to code this in a reproducible way.</p>
+</section>
+<section id="build-a-logistic-regression-model." class="level2">
+<h2 class="anchored" data-anchor-id="build-a-logistic-regression-model.">4. Build a logistic regression model.</h2>
+<p>Build a logistic regression model for previous MI using the main effects of the 12 variables above. I’d call the model <code>m1</code> that predicts the log odds of previous myocardial infarction (<code>PREVMI</code>) on the basis of the main effects of each of the twelve variables in your table above, for your sample of 1000 subjects.</p>
+<p>How many observations does your model <code>m1</code> actually fit results for? (This is asking for the number of subjects without any missing values, across all variables in your model.)</p>
+</section>
+<section id="redefine-your-sample-and-rebuild-the-table-and-model." class="level2">
+<h2 class="anchored" data-anchor-id="redefine-your-sample-and-rebuild-the-table-and-model.">5. Redefine your sample and rebuild the Table and Model.</h2>
+<p>Assuming you have at least one missing value in a predictor in your model for task 4, re-define your sample to include only the observations which are “complete cases” with no missing values on any of the key variables we’re looking at. Specify the number of subjects (&lt; 1000) that remain in your new sample.</p>
+<p>Now, <strong>redo both Tasks 3 and 4</strong> to describe this new sample and use it to fit a model. Call the new model <code>m2</code>. Verify that missing values no longer plague this new model.</p>
+</section>
+<section id="add-the-fitted-probabilities-from-task-5-to-your-data-then-plot-them-against-observed-status." class="level2">
+<h2 class="anchored" data-anchor-id="add-the-fitted-probabilities-from-task-5-to-your-data-then-plot-them-against-observed-status.">6. Add the fitted probabilities from Task 5 to your data, then plot them against observed status.</h2>
+<p>Use the model (<code>m2</code>) you built in Task 5 to add the fitted probability of previous myocardial infarction to the sample you used to create <code>m2</code>.</p>
+<p>Produce an attractive and useful graphical summary of the distribution of fitted probabilities of previous myocardial infarction broken down into two categories by the patient’s actual <code>PREVMI</code> status in this sample. I strongly encourage you to round the probabilities to two decimal places before visualizing them.</p>
 
 
 </section>

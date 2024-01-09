@@ -9,8 +9,11 @@ This page houses information about **Observational Studies in Action** (OSIA) wo
 
 ## The Assignment
 
-1. You will be responsible for presenting the methods and results of an observational study from the literature that uses propensity score methods.
-2. You will also serve as "second reviewer" from one of the studies selected by your colleagues.
+1. You will be responsible for presenting the methods and results of an observational study from the literature that uses propensity score methods. 
+    - Approximately 10 of the presentations will be done "live" and the rest will be submitted as a recording.
+    
+2. You will also serve as "second reviewer" from one of the studies selected by your colleagues. 
+    - Again, about ten of you will do this "live" and the rest will record your second reviewer comments.
 
 - The first step is to identify a study and claim it, as described below. The deadline for submitting your claim on a study is provided in the [Course Calendar](calendar.qmd). Dr. Love will then approve your study if it is appropriate, and if no one else has yet claimed it.
 
@@ -34,7 +37,7 @@ All claims must be made by the deadline posted on the [Course Calendar](calendar
 
 ## Your Presentation
 
-You will give a 15-minute presentation to the rest of the class summarizing the background, methods and key results of the study. 
+You will give a 12-15 minute presentation to the rest of the class summarizing the background, methods and key results of the study. 
 
 - I suggest you plan on spending about half of the time discussing the statistical and design considerations.
 - I strongly encourage you to provide useful graphs (created by you or by the original authors) to summarize key findings.
@@ -47,7 +50,7 @@ For each OSIA study, a "second reviewer" will be assigned once all studies are e
 
 - The "second reviewer" for each study will provide 3-5 minutes of commentary on the study after the main reviewer's presentation. You are expected to present 2-4 slides as second reviewer. 
 
-## Presentation Submission Details 
+## Presentation Submission Details (for "Live" Talks)
 
 ### for the Primary Reviewer
 
@@ -62,4 +65,19 @@ For the study on which you serve as second reviewer, you will submit final versi
 ## Audience Role
 
 For each OSIA study, everyone will read the abstracts in advance, so that we can have some understanding of what's involved and contribute to the discussion. The papers will be posted to [the Claims page](https://github.com/THOMASELOVE/500-osia-2024/blob/main/claims.md) as they are approved by Dr. Love, and the Shared Google Drive will eventually contain all of the presentations.
+
+## Presentation Submission Details (for Recorded Talks)
+
+### for the Primary Reviewer
+
+For the study you have claimed, you will submit a recording (not to exceed 12 minutes) of your presentation by the deadline Dr. Love will provide. You will also include your slides in your submission. The file name for each should include your name.
+
+- This will allow Dr. Love, the second reviewer of your article, and anyone else in the class to review your slides in advance.
+
+### for the Second Reviewer
+
+You will submit a recording (not to exceed 4 minutes) of your presentation by the deadline Dr. Love will provide. You will also include your 2-4 slides in your submission. The file name for each should include your name. 
+
+We expect you to have reviewed the slides prepared by the principal reviewer (which will be posted the day before) in preparing your materials.
+
 

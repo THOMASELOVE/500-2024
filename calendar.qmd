@@ -19,49 +19,52 @@ During the course, we will read Paul Rosenbaum's book **Causal Inference** (abbr
 
 LINK | Date | Description
 ---------: | :-------: | :-----------------------------------------------------
-[Class 01](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class01) | 01-18 | (8:30 - 11 AM) Introduction, Treatments & Randomization <br /> Readings: (1) **PRR CI** through Chapter 2, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Benson and Hartz 2000
+[Class 01](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class01) | 01-18 | **8:30 to 11 AM** Introduction, Treatments & Randomization <br /> Readings: (1) **PRR CI** through Chapter 2, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Benson and Hartz 2000
+[Lab 0](lab0.qmd) | 01-25 | Get R and RStudio installed/updated on your machine, and work through Lab 0. There's nothing to turn in, here, but it will help with future labs.
 [Class 02](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class02) | 01-25 | **9 - 11 AM** Observational Studies <br /> Readings: (1) **PRR CI** through Chapter 3, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Abramson Chapter 2 <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) McGowan blog post <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (4) Bradford Hill 1965
-*Lab 1* | 01-31 | 9 AM: Lab 1 due to Canvas
 
 ## February 2024
 
 LINK | Date | Description
 ---------: | :-------: | :-----------------------------------------------------
-[Class 03](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class03) | 02-01 | **9 - 11 AM** Propensity Scores, I <br /> Readings: (1) **PRR CI** through Chapter 4, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Connors 1996, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) Gum 2001
-*Lab 2* | 02-07 | 9 AM: Lab 2 due to Canvas
-[Class 04](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class04) | 02-08 | **9 - 11 AM** Propensity Scores, II <br /> Readings from [Sources](https://github.com/THOMASELOVE/500-sources): (1) Austin and Mamdani 2006, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Normand 2001, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) D'Agostino Jr 1998
-*OSIA* | 02-14 | 9 AM: OSIA selections due
-[Class 05](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class05) | 02-15 | **9 - 11 AM** Propensity Scores, III <br /> Readings: (1) **PRR CI** through Chapter 5, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Ahmed et al 2012, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) Hirano and Imbens 2001
-*Project* | 02-21 | 9 AM: Project Proposal Draft 1 due to Canvas
-[Class 06](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class06) | 02-22 | **9 - 11 AM** Propensity Scores, IV <br /> Readings from [Sources](https://github.com/THOMASELOVE/500-sources): (1) Rubin 2001, (2) Rubin 2004
-*Lab 3* | 02-28 | 9 AM: Lab 3 due to Canvas
-[Class 07](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class07) | 02-29 | **9 - 11 AM** Propensity Scores, V <br /> Readings: **PRR CI** through Chapter 6, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Elbadawi 2021
+[Lab 1](lab1.qmd) | 02-01 | Lab 1 due to Canvas by the start of class
+[Class 03](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class03) | 02-01 | **9 - 11 AM** Propensity Scores: Matching and Direct Adjustment <br /> Readings: (1) **PRR CI** through Chapter 4, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Connors 1996, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) Gum 2001
+[Lab 2](lab2.qmd) | 02-08 | Lab 2 due to Canvas by the start of class
+[Class 04](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class04) | 02-08 | **9 - 11 AM** Propensity Scores: Part II <br /> Readings from [Sources](https://github.com/THOMASELOVE/500-sources): (1) Austin and Mamdani 2006, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Normand 2001, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) D'Agostino Jr 1998
+*OSIA* | 02-13 | **Tuesday** 9 AM: OSIA selections due
+[Class 05](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class05) | 02-15 | **9 - 11 AM** Propensity Scores: Weighting and Subclassification <br /> Readings: (1) **PRR CI** through Chapter 5, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Ahmed et al 2012, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) Hirano and Imbens 2001
+*Project* | 02-20 | **Tuesday** 9 AM: Project Proposal Draft 1 due to Canvas
+[Class 06](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class06) | 02-22 | **9 - 11 AM** Propensity Scores, Part IV <br /> Readings from [Sources](https://github.com/THOMASELOVE/500-sources): (1) Rubin 2001, (2) Rubin 2004
+[Lab 3](lab3.qmd) | 02-29 | Lab 3 due to Canvas by the start of class
+[Class 07](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class07) | 02-29 | **9 - 11 AM** Propensity Scores, Part V <br /> Readings: **PRR CI** through Chapter 6, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Elbadawi 2021
 
 ## March 2024
 
 LINK | Date | Description
 ---------: | :-------: | :-----------------------------------------------------
-*Project* | 03-04 | 9 AM: Project Proposal Draft 2 due to Canvas
-[Class 08] | 03-07 | **9 - 11 AM** OSIA 1, and project discussions <br /> Readings: (1) **PRR CI** through Chapter 7, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Tanenbaum 2019
+*Project* | 03-05 | **Tuesday** 9 AM: Project Proposal Draft 2 due to Canvas
+[Class 08](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class08) | 03-07 | Project discussions and catch-up <br /> Readings: (1) **PRR CI** through Chapter 7, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Tanenbaum 2019
 *No Class* | 03-14 | CWRU Spring Break (3-11 through 3-15)
-*Lab 4* | 03-20 | 9 AM: Lab 4 due to Canvas
-[Class 09] | 03-21 | **9 - 11 AM** OSIA 2, more TBA <br /> Reading: **PRR CI** through Chapter 8
-[Class 10] | 03-28 | **9 - 11 AM** OSIA 3, more TBA <br /> Reading: **PRR CI** through Chapter 9
+[Lab 4](lab4.qmd) | 03-21 | Lab 4 due to Canvas by the start of class
+[Class 09](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class09) | 03-21 | **9 - 11 AM** OSIA Live Set 1, more TBA <br /> Reading: **PRR CI** through Chapter 8
+*OSIA* | 03-28 | Recorded OSIA First Reader presentations due at the start of class
+[Class 10](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class10) | 03-28 | **9 - 11 AM** OSIA Live Set 2, more TBA <br /> Reading: **PRR CI** through Chapter 9
 
 ## April and May 2024
 
 LINK | Date | Description
 ---------: | :-------: | :-----------------------------------------------------
-*Project* | 04-01 | 9 AM: Project Update due to Canvas
-[Class 11] | 04-04 | **9 - 11 AM** OSIA 4, discussion of project updates <br /> Reading: **PRR CI** finish book
-[Class 12] | 04-11 | **8:30 AM to 11 AM** Project Presentations, 1
-[Class 13] | 04-18 | **8:30 AM to 11 AM** Project Presentations, 2
-[Class 14] | 04-25 | **8:30 AM to 11 AM** Project Presentations, 3
-[Class 15] | 05-02 | **8:30 AM to 11 AM** Project Presentations, 4
+*Project* | 04-01 |**Tuesday** 9 AM: Project Update due to Canvas
+*OSIA* | 04-04 | Recorded OSIA Second Reviewer presentations due at the start of class
+[Class 11](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class11) | 04-04 | **9 - 11 AM** OSIA Live Set 3, discussion of project updates <br /> Reading: **PRR CI** finish book
+[Class 12](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class12) | 04-11 | **8:30 to 11 AM** Project Presentations, Set 1
+[Class 13](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class13) | 04-18 | **8:30 to 11 AM** Project Presentations, Set 2
+[Class 14](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class14) | 04-25 | **8:30 to 11 AM** Project Presentations, Set 3
+[Class 15](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class15) | 05-02 | **8:30 to 11 AM** Project Presentations, Set 4
 
 ## End of Semester
 
-- Final Project Submissions are due to Canvas at **12 Noon on Monday 2023-05-06** from everyone.
+- Final Project Submissions are due to Canvas at **9 AM on Monday 2023-05-06** from everyone regardless of when you give your project presentation.
 - When prompted via email by the University (usually in late April), please visit <https://webapps.case.edu/courseevals/> and complete the course evaluations before they close.
 
 

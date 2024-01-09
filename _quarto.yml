@@ -27,7 +27,6 @@ website:
           - lab2.qmd
           - lab3.qmd
           - lab4.qmd
-          - lab5.qmd
       - text: "OSIA"
         href: osia.qmd
       - text: "Project"
