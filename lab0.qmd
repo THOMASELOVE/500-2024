@@ -18,7 +18,7 @@ We have provided a template for building a response to Lab 0, specifically a Qua
 
 ## Answer Sketch for Lab 0
 
-We have also provided an Answer Sketch for Lab 0, including both the Quarto file we used to create the sketch and the resulting HTML file it generates. You'll find those files in the Labs section of our Shared Google Drive.
+We have also provided an Answer Sketch for Lab 0, including both the Quarto file we used to create the sketch and the resulting HTML file it generates. You'll find those files in the Labs section of our **Shared Google Drive**.
 
 # Original Instructions for this work
 

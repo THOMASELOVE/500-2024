@@ -18,35 +18,49 @@
     "href": "calendar.html#timing-and-location",
     "title": "Calendar for 500: Spring 2024",
     "section": "Timing and Location",
-    "text": "Timing and Location\n\nAll classes are held in Wolstein Research Building, Room 1217.\nClasses 01, 12, 13, 14 and 15 will begin at 8:30 AM and continue until 11:00 AM.\nClasses 02-11 will begin at 9:00 AM and continue until 11:00 AM."
+    "text": "Timing and Location\n\nAll classes are held in Wolstein Research Building, Room 1217.\nZoom recordings will be made available when possible.\nClasses 01, and 12-15 will begin at 8:30 AM and continue until 11:00 AM.\nClasses 02-11 will begin at 9:00 AM and continue until 11:00 AM."
+  },
+  {
+    "objectID": "calendar.html#email",
+    "href": "calendar.html#email",
+    "title": "Calendar for 500: Spring 2024",
+    "section": "Email",
+    "text": "Email\nContact us at 500-help at case dot edu if you have any questions, once the class begins."
+  },
+  {
+    "objectID": "calendar.html#office-hours",
+    "href": "calendar.html#office-hours",
+    "title": "Calendar for 500: Spring 2024",
+    "section": "Office Hours",
+    "text": "Office Hours\n\nOur teaching assistant, Leila Hojat, will hold office hours via Zoom on Mondays and Wednesdays from 5 to 6 PM, starting on 2024-01-22 and continuing through 2024-05-01.\n\nTA office hours are cancelled on 2024-03-11, 2024-03-13, 2024-04-01, 2024-04-03, 2024-04-08 (due to the eclipse) and 2024-04-17.\nZoom details for Leila’s office hours are posted to our Shared Google Drive and to Canvas.\n\nDr. Love will hold office hours after class on Thursdays (11 AM to Noon). Just let him know during class if you want to speak with him afterwards.\nFor more information about us, visit Contact Us."
   },
   {
     "objectID": "calendar.html#january-2024",
     "href": "calendar.html#january-2024",
     "title": "Calendar for 500: Spring 2024",
     "section": "January 2024",
-    "text": "January 2024\n\n\n\nLINK\nDate\nDescription\n\n\n\n\nClass 01\n01-18\n8:30 to 11 AM Introduction, Treatments & Randomization  Readings: (1) PRR CI through Chapter 2,  From Sources: (2) Benson and Hartz 2000\n\n\nLab 0\n01-25\nGet R and RStudio installed/updated on your machine, and work through Lab 0. There’s nothing to turn in, here, but it will help with future labs.\n\n\nClass 02\n01-25\n9 - 11 AM Observational Studies  Readings: (1) PRR CI through Chapter 3,  From Sources: (2) Abramson Chapter 2  From Sources: (3) McGowan blog post  From Sources: (4) Bradford Hill 1965"
+    "text": "January 2024\n\n\n\nLINK\nDate\nDescription\n\n\n\n\nClass 01\n01-18\n8:30 to 11 AM Introduction, Treatments & Randomization  Readings: (1) PRR CI through Chapter 2,  From Sources: (2) Benson and Hartz 2000\n\n\nLab 0\n01-25\nGet R and RStudio installed/updated on your machine.  Work through Lab 0, referring to the template and sketch.  There’s nothing to turn in, but it will help with future labs.\n\n\nClass 02\n01-25\n9 - 11 AM Observational Studies and Propensity Scores  Readings: (1) PRR CI through Chapter 3,  From Sources: (2) Abramson Chapter 2  From Sources: (3) McGowan blog post  From Sources: (4) Bradford Hill 1965"
   },
   {
     "objectID": "calendar.html#february-2024",
     "href": "calendar.html#february-2024",
     "title": "Calendar for 500: Spring 2024",
     "section": "February 2024",
-    "text": "February 2024\n\n\n\nLINK\nDate\nDescription\n\n\n\n\nLab 1\n02-01\nLab 1 due to Canvas by the start of class\n\n\nClass 03\n02-01\n9 - 11 AM Propensity Scores: Matching and Direct Adjustment  Readings: (1) PRR CI through Chapter 4,  From Sources: (2) Connors 1996,  From Sources: (3) Gum 2001\n\n\nLab 2\n02-08\nLab 2 due to Canvas by the start of class\n\n\nClass 04\n02-08\n9 - 11 AM Propensity Scores: Part II  Readings from Sources: (1) Austin and Mamdani 2006,  From Sources: (2) Normand 2001,  From Sources: (3) D’Agostino Jr 1998\n\n\nOSIA\n02-13\nTuesday 9 AM: OSIA selections due\n\n\nClass 05\n02-15\n9 - 11 AM Propensity Scores: Weighting and Subclassification  Readings: (1) PRR CI through Chapter 5,  From Sources: (2) Ahmed et al 2012,  From Sources: (3) Hirano and Imbens 2001\n\n\nProject\n02-20\nTuesday 9 AM: Project Proposal Draft 1 due to Canvas\n\n\nClass 06\n02-22\n9 - 11 AM Propensity Scores, Part IV  Readings from Sources: (1) Rubin 2001, (2) Rubin 2004\n\n\nLab 3\n02-29\nLab 3 due to Canvas by the start of class\n\n\nClass 07\n02-29\n9 - 11 AM Propensity Scores, Part V  Readings: PRR CI through Chapter 6,  From Sources: (2) Elbadawi 2021"
+    "text": "February 2024\n\n\n\nLINK\nDate\nDescription\n\n\n\n\nLab 1\n02-01\nLab 1 due to Canvas by the start of class\n\n\nClass 03\n02-01\n9 - 11 AM Propensity Scores: Direct Adjustment and 1:1 Matching  Readings: (1) PRR CI through Chapter 4,  From Sources: (2) Connors 1996,  From Sources: (3) Gum 2001\n\n\nLab 2\n02-08\nLab 2 due to Canvas by the start of class\n\n\nClass 04\n02-08\n9 - 11 AM Propensity Scores: More on Matching with the Propensity Score  Readings from Sources: (1) Austin and Mamdani 2006,  From Sources: (2) Normand 2001,  From Sources: (3) D’Agostino Jr 1998\n\n\nOSIA\n02-13\nTuesday 9 AM: OSIA selections due via email to 500-help\n\n\nClass 05\n02-15\n9 - 11 AM Propensity Scores: Weighting and Subclassification  Readings: (1) PRR CI through Chapter 5,  From Sources: (2) Ahmed et al 2012,  From Sources: (3) Hirano and Imbens 2001\n\n\nProject\n02-20\nTuesday 9 AM: Project Proposal Draft 1 due to Canvas\n\n\nClass 06\n02-22\n9 - 11 AM Propensity Scores and Rubin’s Rules  Readings from Sources: (1) Rubin 2001, (2) Rubin 2004\n\n\nLab 3\n02-29\nLab 3 due to Canvas by the start of class\n\n\nClass 07\n02-29\n9 - 11 AM Propensity Scores and Sensitivity Analyses  Readings: PRR CI through Chapter 6,  From Sources: (2) Elbadawi 2021"
   },
   {
     "objectID": "calendar.html#march-2024",
     "href": "calendar.html#march-2024",
     "title": "Calendar for 500: Spring 2024",
     "section": "March 2024",
-    "text": "March 2024\n\n\n\nLINK\nDate\nDescription\n\n\n\n\nProject\n03-05\nTuesday 9 AM: Project Proposal Draft 2 due to Canvas\n\n\nClass 08\n03-07\nProject discussions and catch-up  Readings: (1) PRR CI through Chapter 7,  From Sources: (2) Tanenbaum 2019\n\n\nNo Class\n03-14\nCWRU Spring Break (3-11 through 3-15)\n\n\nLab 4\n03-21\nLab 4 due to Canvas by the start of class\n\n\nClass 09\n03-21\n9 - 11 AM OSIA Live Set 1, more TBA  Reading: PRR CI through Chapter 8\n\n\nOSIA\n03-28\nRecorded OSIA First Reader presentations due at the start of class\n\n\nClass 10\n03-28\n9 - 11 AM OSIA Live Set 2, more TBA  Reading: PRR CI through Chapter 9"
+    "text": "March 2024\n\n\n\nLINK\nDate\nDescription\n\n\n\n\nProject\n03-05\nTuesday 9 AM: Project Proposal Draft 2 due to Canvas\n\n\nClass 08\n03-07\nProject and OSIA advice and catch-up  Readings: (1) PRR CI through Chapter 7,  From Sources: (2) Tanenbaum 2019\n\n\nNo Class\n03-14\nCWRU Spring Break (3-11 through 3-15)\n\n\nLab 4\n03-21\nLab 4 due to Canvas by the start of class\n\n\nClass 09\n03-21\n9 - 11 AM OSIA Live Set 1 then TBA  Reading: PRR CI through Chapter 8\n\n\nOSIA\n03-28\n9 AM: Recorded OSIA First Reader presentations  due to Shared Google Drive\n\n\nClass 10\n03-28\n9 - 11 AM OSIA Live Set 2 then TBA  Reading: PRR CI through Chapter 9"
   },
   {
     "objectID": "calendar.html#april-and-may-2024",
     "href": "calendar.html#april-and-may-2024",
     "title": "Calendar for 500: Spring 2024",
     "section": "April and May 2024",
-    "text": "April and May 2024\n\n\n\nLINK\nDate\nDescription\n\n\n\n\nProject\n04-01\nTuesday 9 AM: Project Update due to Canvas\n\n\nOSIA\n04-04\nRecorded OSIA Second Reviewer presentations due at the start of class\n\n\nClass 11\n04-04\n9 - 11 AM OSIA Live Set 3, discussion of project updates  Reading: PRR CI finish book\n\n\nClass 12\n04-11\n8:30 to 11 AM Project Presentations, Set 1\n\n\nClass 13\n04-18\n8:30 to 11 AM Project Presentations, Set 2\n\n\nClass 14\n04-25\n8:30 to 11 AM Project Presentations, Set 3\n\n\nClass 15\n05-02\n8:30 to 11 AM Project Presentations, Set 4"
+    "text": "April and May 2024\n\n\n\nLINK\nDate\nDescription\n\n\n\n\nProject\n04-02\nTuesday 9 AM: Project Update due to Canvas\n\n\nOSIA\n04-04\n9 AM: Recorded OSIA Second Reader presentations  due to Shared Google Drive\n\n\nClass 11\n04-04\n9 - 11 AM OSIA Live Set 3 then Project Update discussion  Reading: PRR CI finish book\n\n\nClass 12\n04-11\n8:30 to 11 AM Project Presentations, Set 1\n\n\nClass 13\n04-18\n8:30 to 11 AM Project Presentations, Set 2\n\n\nClass 14\n04-25\n8:30 to 11 AM Project Presentations, Set 3\n\n\nClass 15\n05-02\n8:30 to 11 AM Project Presentations, Set 4 and Class Wrapup"
   },
   {
     "objectID": "calendar.html#end-of-semester",
@@ -60,7 +74,21 @@
     "href": "contact.html",
     "title": "Contact Us",
     "section": "",
-    "text": "Leila Hojat will also serve as a teaching assistant for this course, for which I am extremely grateful. Leila has taken the course in the past, and will be happy to help you with questions you have about R, about propensity scores, and about other course materials when I cannot.\nI will generally be available from 11 to Noon on Thursdays for informal office hours. Just let me know during the break in class if you’re planning to chat with me after class.\nIf you have a question at any time, send it by email to us at 500-help at case dot edu.\nMy additional information is part of the Course Syllabus."
+    "text": "If you have a question at any time, send it by email to us at 500-help at case dot edu."
+  },
+  {
+    "objectID": "contact.html#teaching-assistant",
+    "href": "contact.html#teaching-assistant",
+    "title": "Contact Us",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\nLeila Hojat will serve as a teaching assistant for this course, for which I am extremely grateful. Leila has taken the course in the past, and will be happy to help you with questions you have about R, about propensity scores, and about other course materials when I cannot.\nLeila’s Office Hours for 500 in Spring 2024 will be held via Zoom from 5 to 6 PM on most Mondays and Wednesdays, beginning Monday 2024-01-22 and continuing through Wednesday 2024-05-01.\n\nTA office hours are canceled on 2024-03-11 and 2024-03-13 (Spring Break) as well as 2024-04-01 and 2024-04-03, 2024-04-08 (due to the eclipse) and 2024-04-17.\nZoom meeting details for TA office hours are posted as a Canvas announcement and to our Shared Google Drive."
+  },
+  {
+    "objectID": "contact.html#dr.-love",
+    "href": "contact.html#dr.-love",
+    "title": "Contact Us",
+    "section": "Dr. Love",
+    "text": "Dr. Love\nI will generally be available from 11 to Noon on Thursdays for informal office hours. Just let me know during the break in class if you’re planning to chat with me after class.\nMy additional information is part of the Course Syllabus."
   },
   {
     "objectID": "index.html",
@@ -382,7 +410,7 @@
     "href": "osia.html#the-assignment",
     "title": "Observational Studies in Action",
     "section": "The Assignment",
-    "text": "The Assignment\n\nYou will be responsible for presenting the methods and results of an observational study from the literature that uses propensity score methods.\n\nApproximately 10 of the presentations will be done “live” and the rest will be submitted as a recording.\n\nYou will also serve as “second reviewer” from one of the studies selected by your colleagues.\n\nAgain, about ten of you will do this “live” and the rest will record your second reviewer comments.\n\n\n\nThe first step is to identify a study and claim it, as described below. The deadline for submitting your claim on a study is provided in the Course Calendar. Dr. Love will then approve your study if it is appropriate, and if no one else has yet claimed it."
+    "text": "The Assignment\n\nYou will be responsible for presenting the methods and results of an observational study from the literature that uses propensity score methods. We call this role the “first reader”.\n\nDr. Love will select 9 presentations to be done “live” (3 in each “set” of OSIA talks, scheduled for Classes 9-11, as indicated on the Calendar) and the remaining presentations will be submitted as a recording.\n\nYou will also serve as “second reader” from one of the studies selected by your colleagues.\n\nAgain, 9 of you will do this “live” and the rest will record your second reader comments.\n\n\n\nThe first step is to identify a study and claim it, as described below. The deadline for submitting your claim on a study is provided in the Course Calendar. Dr. Love will then approve your study if it is appropriate, and if no one else has yet claimed it."
   },
   {
     "objectID": "osia.html#what-makes-an-appropriate-study",
@@ -396,42 +424,42 @@
     "href": "osia.html#claiming-a-study",
     "title": "Observational Studies in Action",
     "section": "Claiming a Study",
-    "text": "Claiming a Study\nEveryone will present a different study. To submit a study for approval, send a PDF of the study itself along with any appendix materials to Dr. Love in an email entitled “OSIA proposal” and include a brief (100 words is sufficient, in the body of your email) description of why this particular study is of interest to you. Please be sure to specify that you meet all of the standards listed above.\n\nIf you select a study that is unsuitable, Dr. Love will let you know as soon as he can.\nIf you select an acceptable study and you are the first to “claim” it, it’s yours. Once a study is claimed, Dr. Love will post it to the OSIA claims page. If you select a study that someone else has beaten you to, you will have to submit an alternative.\n\nAll claims must be made by the deadline posted on the Course Calendar."
+    "text": "Claiming a Study\nEveryone will present a different study. To submit a study for approval, send a PDF of the study itself along with any appendix materials to Dr. Love in an email to 500-help at case dot edu entitled “OSIA proposal” and include a brief (100 words is sufficient, in the body of your email) description of why this particular study is of interest to you. Please be sure to specify that you meet all of the standards listed above.\n\nIf you select a study that is unsuitable, Dr. Love will let you know as soon as he can.\nIf you select an acceptable study and you are the first to “claim” it, it’s yours. Once a study is claimed, Dr. Love will post it to the OSIA claims page. If you select a study that someone else has beaten you to, you will have to submit an alternative.\n\nAll claims must be made by the deadline posted on the Course Calendar."
   },
   {
-    "objectID": "osia.html#your-presentation",
-    "href": "osia.html#your-presentation",
+    "objectID": "osia.html#your-presentation-as-first-reader",
+    "href": "osia.html#your-presentation-as-first-reader",
     "title": "Observational Studies in Action",
-    "section": "Your Presentation",
-    "text": "Your Presentation\nYou will give a 12-15 minute presentation to the rest of the class summarizing the background, methods and key results of the study.\n\nI suggest you plan on spending about half of the time discussing the statistical and design considerations.\nI strongly encourage you to provide useful graphs (created by you or by the original authors) to summarize key findings.\n\nI encourage you to think hard about what might be most useful to us in this context."
+    "section": "Your Presentation as First Reader",
+    "text": "Your Presentation as First Reader\nYou will give a 12 minute presentation to the rest of the class summarizing the background, methods and key results of the study.\n\nI suggest you plan on spending about half of the time discussing the statistical and design considerations.\nI strongly encourage you to provide useful graphs (created by you or by the original authors) to summarize key findings.\n\nI encourage you to think hard about what might be most useful to us in this context."
   },
   {
-    "objectID": "osia.html#second-reviewer",
-    "href": "osia.html#second-reviewer",
+    "objectID": "osia.html#second-reader",
+    "href": "osia.html#second-reader",
     "title": "Observational Studies in Action",
-    "section": "Second Reviewer",
-    "text": "Second Reviewer\nFor each OSIA study, a “second reviewer” will be assigned once all studies are established (so that everyone does this job once.)\n\nThe “second reviewer” for each study will provide 3-5 minutes of commentary on the study after the main reviewer’s presentation. You are expected to present 2-4 slides as second reviewer."
+    "section": "Second Reader",
+    "text": "Second Reader\nFor each OSIA study, a “second reader” will be assigned once all studies are established (so that everyone does this job once.)\n\nThe “second reader” for each study will provide 3-4 minutes of commentary on the study after the first reader’s presentation. You are expected to present 2-4 slides as second reader."
   },
   {
     "objectID": "osia.html#presentation-submission-details-for-live-talks",
     "href": "osia.html#presentation-submission-details-for-live-talks",
     "title": "Observational Studies in Action",
     "section": "Presentation Submission Details (for “Live” Talks)",
-    "text": "Presentation Submission Details (for “Live” Talks)\n\nfor the Primary Reviewer\nFor the study you have claimed, you will submit final versions of the slides for your class presentation (20 slides should be a reasonable maximum) to our Shared Google Drive by 3 PM on the day before your presentation. The file name should include your name.\n\nThis will allow Dr. Love, the second reviewer of your article, and anyone else in the class to review your slides in advance.\n\n\n\nfor the Second Reviewer\nFor the study on which you serve as second reviewer, you will submit final versions of your 2-4 slides for your presentation to our Shared Google Drive by 8 AM on the day of your presentation. We expect you to have reviewed the slides prepared by the principal reviewer (which will be posted the day before) in preparing your materials."
+    "text": "Presentation Submission Details (for “Live” Talks)\n\nfor the First Reader\nFor the study you have claimed, you will submit final versions of the slides for your class presentation (20 slides should be a reasonable maximum) to our Shared Google Drive by 3 PM on the day before your presentation. The file name should include your name.\n\nThis will allow Dr. Love, the second reader for your article, and anyone else in the class to review your slides in advance.\n\n\n\nfor the Second Reader\nFor the study on which you serve as second reader, you will submit final versions of your 2-4 slides for your presentation to our Shared Google Drive by 8 AM on the day of your presentation. We expect you to have reviewed the slides prepared by the First Reader (which will be posted the day before) in preparing your materials."
   },
   {
     "objectID": "osia.html#audience-role",
     "href": "osia.html#audience-role",
     "title": "Observational Studies in Action",
     "section": "Audience Role",
-    "text": "Audience Role\nFor each OSIA study, everyone will read the abstracts in advance, so that we can have some understanding of what’s involved and contribute to the discussion. The papers will be posted to the Claims page as they are approved by Dr. Love, and the Shared Google Drive will eventually contain all of the presentations."
+    "text": "Audience Role\nFor each OSIA study presented live, everyone will read the abstracts in advance, so that we can have some understanding of what’s involved and contribute to the discussion. The papers will be posted to the Claims page as they are approved by Dr. Love, and the Shared Google Drive will eventually contain slides for all of the live presentations."
   },
   {
     "objectID": "osia.html#presentation-submission-details-for-recorded-talks",
     "href": "osia.html#presentation-submission-details-for-recorded-talks",
     "title": "Observational Studies in Action",
     "section": "Presentation Submission Details (for Recorded Talks)",
-    "text": "Presentation Submission Details (for Recorded Talks)\n\nfor the Primary Reviewer\nFor the study you have claimed, you will submit a recording (not to exceed 12 minutes) of your presentation by the deadline Dr. Love will provide. You will also include your slides in your submission. The file name for each should include your name.\n\nThis will allow Dr. Love, the second reviewer of your article, and anyone else in the class to review your slides in advance.\n\n\n\nfor the Second Reviewer\nYou will submit a recording (not to exceed 4 minutes) of your presentation by the deadline Dr. Love will provide. You will also include your 2-4 slides in your submission. The file name for each should include your name.\nWe expect you to have reviewed the slides prepared by the principal reviewer (which will be posted the day before) in preparing your materials."
+    "text": "Presentation Submission Details (for Recorded Talks)\n\nfor the First Reader\nFor the study you have claimed, you will submit a recording (not to exceed 12 minutes) of your presentation to our Shared Google Drive by the deadline Dr. Love has posted to the Course Calendar. You will also include your slides in your submission. The file name for each should include your name.\n\nThis will allow Dr. Love, the second reader of your article, and anyone else in the class to review your slides in advance.\n\n\n\nfor the Second Reader\nYou will submit a recording (not to exceed 3 minutes) of your presentation to our Shared Google Drive by the deadline Dr. Love will provide. You will also include your 2-4 slides in your submission. The file name for each should include your name.\nWe expect you to have reviewed the slides prepared by the First Reader (which will be posted the previous week) in preparing your materials."
   },
   {
     "objectID": "proj500.html",

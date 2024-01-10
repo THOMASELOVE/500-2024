@@ -9,11 +9,11 @@ This page houses information about **Observational Studies in Action** (OSIA) wo
 
 ## The Assignment
 
-1. You will be responsible for presenting the methods and results of an observational study from the literature that uses propensity score methods. 
-    - Approximately 10 of the presentations will be done "live" and the rest will be submitted as a recording.
+1. You will be responsible for presenting the methods and results of an observational study from the literature that uses propensity score methods. We call this role the "first reader".
+    - Dr. Love will select 9 presentations to be done "live" (3 in each "set" of OSIA talks, scheduled for Classes 9-11, as indicated on [the Calendar](calendar.qmd)) and the remaining presentations will be submitted as a recording.
     
-2. You will also serve as "second reviewer" from one of the studies selected by your colleagues. 
-    - Again, about ten of you will do this "live" and the rest will record your second reviewer comments.
+2. You will also serve as "second reader" from one of the studies selected by your colleagues. 
+    - Again, 9 of you will do this "live" and the rest will record your second reader comments.
 
 - The first step is to identify a study and claim it, as described below. The deadline for submitting your claim on a study is provided in the [Course Calendar](calendar.qmd). Dr. Love will then approve your study if it is appropriate, and if no one else has yet claimed it.
 
@@ -28,56 +28,56 @@ An appropriate study will
 
 ## Claiming a Study
 
-Everyone will present a different study. To submit a study for approval, send a PDF of the study itself along with any appendix materials to Dr. Love in an **email** entitled "OSIA proposal" and include a brief (100 words is sufficient, in the body of your email) description of why this particular study is of interest to you. Please be sure to specify that you meet all of the standards listed above.
+Everyone will present a different study. To submit a study for approval, send a PDF of the study itself along with any appendix materials to Dr. Love in an **email to 500-help at case dot edu** entitled "OSIA proposal" and include a brief (100 words is sufficient, in the body of your email) description of why this particular study is of interest to you. Please be sure to specify that you meet all of the standards listed above.
 
 - If you select a study that is unsuitable, Dr. Love will let you know as soon as he can.
 - If you select an acceptable study and you are the first to "claim" it, it's yours. Once a study is claimed, Dr. Love will post it to [the OSIA claims page](https://github.com/THOMASELOVE/500-osia-2024). If you select a study that someone else has beaten you to, you will have to submit an alternative.
 
 All claims must be made by the deadline posted on the [Course Calendar](calendar.qmd).
 
-## Your Presentation
+## Your Presentation as First Reader
 
-You will give a 12-15 minute presentation to the rest of the class summarizing the background, methods and key results of the study. 
+You will give a 12 minute presentation to the rest of the class summarizing the background, methods and key results of the study. 
 
 - I suggest you plan on spending about half of the time discussing the statistical and design considerations.
 - I strongly encourage you to provide useful graphs (created by you or by the original authors) to summarize key findings.
 
 I encourage you to think hard about what might be most useful to us in this context. 
 
-## Second Reviewer
+## Second Reader
 
-For each OSIA study, a "second reviewer" will be assigned once all studies are established (so that everyone does this job once.) 
+For each OSIA study, a "second reader" will be assigned once all studies are established (so that everyone does this job once.) 
 
-- The "second reviewer" for each study will provide 3-5 minutes of commentary on the study after the main reviewer's presentation. You are expected to present 2-4 slides as second reviewer. 
+- The "second reader" for each study will provide 3-4 minutes of commentary on the study after the first reader's presentation. You are expected to present 2-4 slides as second reader. 
 
 ## Presentation Submission Details (for "Live" Talks)
 
-### for the Primary Reviewer
+### for the First Reader
 
 For the study you have claimed, you will submit final versions of the slides for your class presentation (20 slides should be a reasonable maximum) to our **Shared Google Drive** by 3 PM on the day **before** your presentation. The file name should include your name.
 
-- This will allow Dr. Love, the second reviewer of your article, and anyone else in the class to review your slides in advance.
+- This will allow Dr. Love, the second reader for your article, and anyone else in the class to review your slides in advance.
 
-### for the Second Reviewer
+### for the Second Reader
 
-For the study on which you serve as second reviewer, you will submit final versions of your 2-4 slides for your presentation to our **Shared Google Drive** by 8 AM on the day of your presentation. We expect you to have reviewed the slides prepared by the principal reviewer (which will be posted the day before) in preparing your materials.
+For the study on which you serve as second reader, you will submit final versions of your 2-4 slides for your presentation to our **Shared Google Drive** by 8 AM on the day of your presentation. We expect you to have reviewed the slides prepared by the First Reader (which will be posted the day before) in preparing your materials.
 
 ## Audience Role
 
-For each OSIA study, everyone will read the abstracts in advance, so that we can have some understanding of what's involved and contribute to the discussion. The papers will be posted to [the Claims page](https://github.com/THOMASELOVE/500-osia-2024/blob/main/claims.md) as they are approved by Dr. Love, and the Shared Google Drive will eventually contain all of the presentations.
+For each OSIA study presented live, everyone will read the abstracts in advance, so that we can have some understanding of what's involved and contribute to the discussion. The papers will be posted to [the Claims page](https://github.com/THOMASELOVE/500-osia-2024/blob/main/claims.md) as they are approved by Dr. Love, and the **Shared Google Drive** will eventually contain slides for all of the live presentations.
 
 ## Presentation Submission Details (for Recorded Talks)
 
-### for the Primary Reviewer
+### for the First Reader
 
-For the study you have claimed, you will submit a recording (not to exceed 12 minutes) of your presentation by the deadline Dr. Love will provide. You will also include your slides in your submission. The file name for each should include your name.
+For the study you have claimed, you will submit a recording (not to exceed 12 minutes) of your presentation to our **Shared Google Drive** by the deadline Dr. Love has posted to the Course Calendar. You will also include your slides in your submission. The file name for each should include your name.
 
-- This will allow Dr. Love, the second reviewer of your article, and anyone else in the class to review your slides in advance.
+- This will allow Dr. Love, the second reader of your article, and anyone else in the class to review your slides in advance.
 
-### for the Second Reviewer
+### for the Second Reader
 
-You will submit a recording (not to exceed 4 minutes) of your presentation by the deadline Dr. Love will provide. You will also include your 2-4 slides in your submission. The file name for each should include your name. 
+You will submit a recording (not to exceed 3 minutes) of your presentation to our **Shared Google Drive** by the deadline Dr. Love will provide. You will also include your 2-4 slides in your submission. The file name for each should include your name. 
 
-We expect you to have reviewed the slides prepared by the principal reviewer (which will be posted the day before) in preparing your materials.
+We expect you to have reviewed the slides prepared by the First Reader (which will be posted the previous week) in preparing your materials.
 
 
