@@ -46,7 +46,7 @@ LINK | Date | Description
 [Class 04](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class04) | 02-08 | **9 - 11 AM** Propensity Scores: More on Matching with the Propensity Score <br /> Readings from [Sources](https://github.com/THOMASELOVE/500-sources): (1) Austin and Mamdani 2006, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Normand 2001, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) D'Agostino Jr 1998
 [OSIA](osia.qmd) | 02-13 | **Tuesday** 9 AM: [OSIA selections due](osia.qmd) via email to **500-help**
 [Class 05](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class05) | 02-15 | **9 - 11 AM** Propensity Scores: Weighting and Subclassification <br /> Readings: (1) **PRR CI** through Chapter 5, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Ahmed et al 2012, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) Hirano and Imbens 2001
-*Project* | 02-20 | **Tuesday** 9 AM: Project Proposal Draft 1 due to Canvas
+[Project](proj500.qmd) | 02-20 | **Tuesday** 9 AM: [Project](proj500.qmd) Proposal Draft 1 due to Canvas
 [Class 06](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class06) | 02-22 | **9 - 11 AM** Propensity Scores and Rubin's Rules <br /> Readings from [Sources](https://github.com/THOMASELOVE/500-sources): (1) Rubin 2001, (2) Rubin 2004
 [Lab 3](lab3.qmd) | 02-29 | Lab 3 due to Canvas by the start of class
 [Class 07](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class07) | 02-29 | **9 - 11 AM** Propensity Scores and Sensitivity Analyses <br /> Readings: **PRR CI** through Chapter 6, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Elbadawi 2021
@@ -55,7 +55,7 @@ LINK | Date | Description
 
 LINK | Date | Description
 ---------: | :-------: | :-----------------------------------------------------
-*Project* | 03-05 | **Tuesday** 9 AM: Project Proposal Draft 2 due to Canvas
+[Project](proj500.qmd) | 03-05 | **Tuesday** 9 AM: [Project](proj500.qmd) Proposal Draft 2 due to Canvas
 [Class 08](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class08) | 03-07 | Project and OSIA advice and catch-up <br /> Readings: (1) **PRR CI** through Chapter 7, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Tanenbaum 2019
 *No Class* | 03-14 | CWRU Spring Break (3-11 through 3-15)
 [Lab 4](lab4.qmd) | 03-21 | Lab 4 due to Canvas by the start of class
@@ -67,13 +67,13 @@ LINK | Date | Description
 
 LINK | Date | Description
 ---------: | :-------: | :-----------------------------------------------------
-*Project* | 04-02 | **Tuesday** 9 AM: Project Update due to Canvas
+[Project](proj500.qmd) | 04-02 | **Tuesday** 9 AM: [Project](proj500.qmd) Update due to Canvas
 [OSIA](osia.qmd) | 04-04 | 9 AM: Recorded OSIA Second Reader presentations <br /> due to **Shared Google Drive**
 [Class 11](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class11) | 04-04 | **9 - 11 AM** [OSIA](osia.qmd) Live Set 3 then Project Update discussion <br /> Reading: **PRR CI** finish book
-[Class 12](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class12) | 04-11 | **8:30 to 11 AM** [Project Presentations](project.qmd), Set 1
-[Class 13](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class13) | 04-18 | **8:30 to 11 AM** [Project Presentations](project.qmd), Set 2
-[Class 14](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class14) | 04-25 | **8:30 to 11 AM** [Project Presentations](project.qmd), Set 3
-[Class 15](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class15) | 05-02 | **8:30 to 11 AM** [Project Presentations](project.qmd), Set 4 and Class Wrapup
+[Class 12](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class12) | 04-11 | **8:30 to 11 AM** [Project Presentations](proj500.qmd), Set 1
+[Class 13](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class13) | 04-18 | **8:30 to 11 AM** [Project Presentations](proj500.qmd), Set 2
+[Class 14](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class14) | 04-25 | **8:30 to 11 AM** [Project Presentations](proj500.qmd), Set 3
+[Class 15](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class15) | 05-02 | **8:30 to 11 AM** [Project Presentations](proj500.qmd), Set 4 and Class Wrapup
 
 ## End of Semester
 
