@@ -11,32 +11,31 @@ As a substantial part of your course grade, you will complete a small observatio
  
 There is more to a statistical application than the analysis of a canned data set, even a good canned data set. George Box noted that "statistics has no reason for existence except as the catalyst for investigation and discovery." Expert clinical researchers and statisticians repeatedly emphasize how important it is that people be able to write well, present clearly, work to solve problems, and show initiative. This project assignment is designed to help you develop your abilities and have a memorable experience.
 
-**Please don't be shy about asking for help sooner, rather than later. Options narrow as an investigation progresses. The earlier we hear about a problem, the more likely we will be able to help solve it.**
-
-## Submission & Deadlines
+**Please don't be shy about asking for help sooner, rather than later. Options narrow as an investigation progresses. The earlier we hear about a problem, the more likely we will be able to help solve it.** [Contact Us](contact.qmd) with your project questions at any time.
 
 - All deadlines related to the Project are provided on the [Course Calendar](calendar.qmd). 
-- All materials for the project should be submitted through [Canvas](https://canvas.case.edu/), unless indicated otherwise by Dr. Love.
 
 ## Deliverables 
 
 I want you to establish relevant and interesting research questions related to a problem of interest, procure data to help answer the questions and pose others, and communicate your results to an audience of your peers. You will be responsible for the following elements of a project. 
 
-1. The [Project Proposal](#the-project-proposal) for which you will submit an initial draft for my review, and then a final version with more details, according to the deadlines in the [Course Calendar](calendar.qmd). 
+1. The [Project Proposal](#the-project-proposal) for which you will submit to [Canvas](https://canvas.case.edu/) an initial draft for my review, and then a second draft responding to my review and providing more details, according to the deadlines in the [Course Calendar](calendar.qmd). With the second draft, you will also need to complete [this scheduling form](https://bit.ly/500-project-schedule-2024).
 
 - Once you have your data, you will probably want to look at the [Analysis Tips](#analysis-tips) we've gathered.
 
-2. The [Project Update](#the-project-update) is the next step. Here you will be revising your proposal, verifying that you have the data and are proceeding appropriately. 
+2. The [Project Update](#the-project-update) is the next step, also submitted to [Canvas](https://canvas.case.edu/). Here you will be revising your proposal, verifying that you have the data and are proceeding appropriately. 
 
 3. The [Final Materials](#final-materials). These include:
-    - An abstract and your presentation slides to [Canvas](https://canvas.case.edu/) 24 hours prior to your presentation.
-    - At the final deadline specified on the [Calendar](calendar.qmd) you will submit your Abstract and Slides again (with any revisions you decide to make in light of the feedback you receive). In addition, you will also submit a data set, Quarto file and HTML results document (including a discussion) that shows all of your work that motivated your slides.
+    - An abstract and your presentation slides to our **Shared Google Drive** 24 hours prior to your presentation. Be sure your file names include your name.
+    - At the final deadline specified on the [Calendar](calendar.qmd) you will submit to [Canvas](https://canvas.case.edu/) your Abstract and Slides (with any revisions you decide to make in light of the feedback you receive). In addition, you will also submit a data set, Quarto file and HTML results document (including a discussion) that shows all of your work that motivated your slides.
 
 # The Project Proposal
 
 ## Submission Specifications
 
-The Proposal is submitted via [Canvas](https://canvas.case.edu/) in two versions, first an *initial draft* and then a *final proposal*. The deadlines for both the initial draft and the final version are specified on the [Course Calendar](calendar.qmd). There is no substantial difference between the two versions, except that I am hopeful that you will have a final version of your data set the second time around, whereas in the first draft, you can get by with some uncertainty on some issues related to your data.
+The Proposal is submitted via [Canvas](https://canvas.case.edu/) in two versions, first an *initial draft* and then a *final proposal*. The deadlines for both the initial draft and the final version are specified on the [Course Calendar](calendar.qmd). There is no substantial difference between the two versions, except that I am hopeful that you will have a final version of your data set the second time around, whereas in the first draft, you can get by with some uncertainty on some issues related to your data. 
+
+- As part of the second draft, you will also [complete this form](https://bit.ly/500-project-schedule-2024) related to scheduling the presentations. The form will open on 
 
 ## What should the proposal look like? 
 
@@ -268,13 +267,13 @@ As mentioned previously, if you have roughly equal numbers of subjects in your "
 
 Your final project work involves three tasks:
 
-1. Submit your pre-presentation version of your Abstract, and of your Slides in time for your presentation. (This deadline depends on when you are actually giving your presentation.)
+1. Submit your pre-presentation version of your Abstract, and of your Slides in time for your presentation to our **Shared Google Drive**. (This deadline depends on when you are actually giving your presentation.)
 2. Give your presentation in class, according to the schedule we will develop during the semester, and which will be linked on the [Course Calendar](calendar.qmd).
-3. After you've all given your presentations and received feedback, you will submit your complete set of final materials, including your revised abstract and slides, your data set, and an Quarto file and HTML document generated from that file, which includes a **discussion**, as outlined below.
+3. After you've all given your presentations and received feedback, you will submit your complete set of final materials to [Canvas](https://canvas.case.edu/), including your revised abstract and slides, your data set, and an Quarto file and HTML document generated from that file, which includes a **discussion**, as outlined below.
 
 The remainder of this document describes these pieces, and also provides some insight on how I'd like to see you put together your presentation, and how you will be evaluating the presentations.
 
-**ASK QUESTIONS EARLY. It's always easier to make adjustments when time pressure isn't a major issue.**
+**ASK QUESTIONS EARLY at 500-help at case dot edu, or in office hours. It's always easier to make adjustments when time pressure isn't a major issue.**
 
 ## The Abstract
 
@@ -289,7 +288,7 @@ The pre-presentation version of your Abstract should be complete. If you decide 
 
 ## The Presentation
 
-After all of the project proposals have been approved, we will settle on a schedule for the presentations and post that schedule on the [Course Calendar](calendar.qmd). Your slides must be submitted in either PDF, HTML (slides) or Powerpoint format, along with your pre-presentation Abstract, according to the deadline in the [Course Calendar](calendar.qmd) associated with your project presentation date.
+After all of the project proposals have been approved, we will settle on a schedule for the presentations and post that schedule on the date specified in the [Course Calendar](calendar.qmd). Your slides must be submitted to the appropriate place in our **Shared Google Drive** in either PDF, HTML (slides), Google Slides or Powerpoint format, along with your pre-presentation Abstract, according to the deadline in the [Course Calendar](calendar.qmd) associated with your project presentation date.
 
 Broadly, your slides will include an introduction which provides a foundation by motivating and clearly stating the research questions you studied, a main section which summarizes your pre-data collection beliefs, the key models and analytical results, and the critical findings of the study, and a conclusion, which provides insight into how your knowledge of the problem you studied has changed as a result of the project, as well as highlighting what you believe to be the key takeaways (both statistical and study-specific) for your audience. These sections should be keyed to slides, smoothing transitions, and forcing you to "tell us what you're going to tell us, tell us, then tell us what you told us."  
 
@@ -337,7 +336,7 @@ I am open to suggestions about other questions that might be useful. Just send t
 
 ## The Final Set of Deliverables
 
-The final set of deliverables includes five key items:
+The final set of deliverables includes five key items, all of which you'll submit to [Canvas](https://canvas.case.edu/) by the deadline in our [Calendar](calendar.qmd):
 
 1. An updated **Abstract** with any necessary corrections to the one submitted previously (if there are no changes, please submit this anyway and indicate that you have made no changes.) The 4,000 character limit still applies.
 2. Updated **Slides** with necessary corrections or amplifications to that presented in class (again, if there are no changes, please submit this anyway and indicate that you have made no changes.)

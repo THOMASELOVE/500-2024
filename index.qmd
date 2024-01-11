@@ -3,8 +3,6 @@ title: "500 Main Page for Spring 2024"
 date: last-modified
 ---
 
-# THIS WEBSITE IS SUBJECT TO MAJOR CHANGE BETWEEN NOW AND JANUARY 12, 2024
-
 Welcome! PQHS 500 (also called CRSP 500) is taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Everything that Professor Love will provide to help you with the course will appear on this website.
 
 The class begins on Thursday 2024-01-18 at 8:30 AM in Room 1217 of the Wolstein Research Building.
