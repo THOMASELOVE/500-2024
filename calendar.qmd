@@ -56,8 +56,7 @@ LINK | Date | Description
 
 LINK | Date | Description
 ---------: | :-------: | :-----------------------------------------------------
-[Project](proj500.qmd) | 03-05 | **Tuesday** 9 AM: [Project](proj500.qmd) Proposal Draft 2 due to [Canvas](https://canvas.case.edu/) <br />
-Complete [scheduling form for project presentations](https://bit.ly/500-project-schedule-2024).
+[Project](proj500.qmd) | 03-05 | **Tuesday** 9 AM: [Project](proj500.qmd) Proposal Draft 2 due to [Canvas](https://canvas.case.edu/) <br /> Complete [project scheduling form](https://bit.ly/500-project-schedule-2024).
 [Class 08](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class08) | 03-07 | Project and OSIA advice and catch-up <br /> Readings: (1) **PRR CI** through Chapter 7, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Tanenbaum 2019
 *No Class* | 03-14 | CWRU Spring Break (3-11 through 3-15) <br /> TA office hours also cancelled, and **500-help** will be closed.
 [Lab 4](lab4.qmd) | 03-21 | [Lab 4](lab4.qmd) due to [Canvas](https://canvas.case.edu/) by the start of class
