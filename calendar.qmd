@@ -28,15 +28,6 @@ Contact us at **500-help** at **case** dot **edu** if you have any questions, on
 - Dr. Love will hold office hours after class on Thursdays (11 AM to Noon). Just let him know during class if you want to speak with him afterwards.
 - For more information about us, visit [Contact Us](contact.qmd).
 
-## January 2024
-
-LINK | Date | Description
----------: | :-------: | :-----------------------------------------------------
-[Class 01](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class01) | 01-18 | **8:30 to 11 AM** Introduction, Treatments & Randomization <br /> Readings: (1) **PRR CI** through Chapter 2, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Benson and Hartz 2000
--- | 01-22 | TA office hours begin and are held most Mondays and Wednesdays 5-6 PM. <br /> Zoom details on our Shared Google Drive and Canvas.
-[Lab 0](lab0.qmd) | 01-25 | Get R and RStudio installed/updated on your machine. <br /> Work through [Lab 0](lab0.qmd), referring to the [template and sketch](lab0.qmd). <br /> There's nothing to turn in, but it will help with future labs.
-[Class 02](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class02) | 01-25 | **9 - 11 AM** Observational Studies and Propensity Scores <br /> Readings: (1) **PRR CI** through Chapter 3, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Abramson Chapter 2 <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) McGowan blog post <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (4) Bradford Hill 1965
-
 ## February 2024
 
 LINK | Date | Description
@@ -46,7 +37,7 @@ LINK | Date | Description
 [OSIA](osia.qmd) | 02-06 | **Tuesday** 9 AM: [OSIA selections due](osia.qmd) via email to **500-help**
 [Class 04](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class04) | 02-08 | **9 - 11 AM** Propensity Scores: More on Matching with the Propensity Score <br /> Readings from [Sources](https://github.com/THOMASELOVE/500-sources): (1) Austin and Mamdani 2006, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Normand 2001, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) D'Agostino Jr 1998
 [Lab 2](lab2.qmd) | 02-15 | [Lab 2](lab2.qmd) due to [Canvas](https://canvas.case.edu/) by the start of class
-[Class 05](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class05) | 02-15 | **9 - 11 AM** Propensity Scores: Weighting and Subclassification <br /> Discussion of [Lab 2](lab2.qmd) Sketch <br /> Readings: (1) **PRR CI** through Chapter 5, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Ahmed et al 2012, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) Hirano and Imbens 2001
+[Class 05](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class05) | 02-15 | **9 - 11 AM** Propensity Scores: Getting More Comfortable <br /> Discussion of [Lab 2](lab2.qmd) Sketch <br /> Readings: (1) **PRR CI** through Chapter 5, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Ahmed et al 2012, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) Hirano and Imbens 2001
 [Project](proj500.qmd) | 02-20 | **Tuesday** 9 AM: [Project](proj500.qmd) Proposal Draft 1 due to [Canvas](https://canvas.case.edu/)
 [Class 06](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class06) | 02-22 | **9 - 11 AM** Propensity Scores and Rubin's Rules <br /> Announcement of which OSIA studies will be presented in class <br /> Discussion of Project Proposal Drafts <br /> Readings from [Sources](https://github.com/THOMASELOVE/500-sources): (1) Rubin 2001, (2) Rubin 2004
 [Lab 3](lab3.qmd) | 02-29 | [Lab 3](lab3.qmd) due to [Canvas](https://canvas.case.edu/) by the start of class
@@ -87,3 +78,11 @@ LINK | Date | Description
 - When prompted via email by the University (usually in late April), please visit <https://webapps.case.edu/courseevals/> and complete the course evaluations before they close.
 
 
+## January 2024
+
+LINK | Date | Description
+---------: | :-------: | :-----------------------------------------------------
+[Class 01](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class01) | 01-18 | **8:30 to 11 AM** Introduction, Treatments & Randomization <br /> Readings: (1) **PRR CI** through Chapter 2, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Benson and Hartz 2000
+-- | 01-22 | TA office hours begin and are held most Mondays and Wednesdays 5-6 PM. <br /> Zoom details on our Shared Google Drive and Canvas.
+[Lab 0](lab0.qmd) | 01-25 | Get R and RStudio installed/updated on your machine. <br /> Work through [Lab 0](lab0.qmd), referring to the [template and sketch](lab0.qmd). <br /> There's nothing to turn in, but it will help with future labs.
+[Class 02](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class02) | 01-25 | **9 - 11 AM** Observational Studies and Propensity Scores <br /> Readings: (1) **PRR CI** through Chapter 3, <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Abramson Chapter 2 <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (3) McGowan blog post <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (4) Bradford Hill 1965
