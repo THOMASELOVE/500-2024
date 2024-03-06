@@ -267,8 +267,8 @@ As mentioned previously, if you have roughly equal numbers of subjects in your "
 
 Your final project work involves three tasks:
 
-1. Submit your pre-presentation version of your Abstract, and of your Slides in time for your presentation to our **Shared Google Drive**. (This deadline depends on when you are actually giving your presentation.)
-2. Give your presentation in class, according to the schedule we will develop during the semester, and which will be linked on the [Course Calendar](calendar.qmd).
+1. Submit your pre-presentation version of your Abstract, and of your Slides in time for your presentation to our **Shared Google Drive**. (Your slides and abstract need to be posted to our **Shared Drive** by Noon on the day **before** your presentation.)
+2. Give your presentation in class, according to the [schedule posted here](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/schedule.md) that we developed during the semester, and is linked on the [Course Calendar](calendar.qmd).
 3. After you've all given your presentations and received feedback, you will submit your complete set of final materials to [Canvas](https://canvas.case.edu/), including your revised abstract and slides, your data set, and an Quarto file and HTML document generated from that file, which includes a **discussion**, as outlined below.
 
 The remainder of this document describes these pieces, and also provides some insight on how I'd like to see you put together your presentation, and how you will be evaluating the presentations.
@@ -288,11 +288,11 @@ The pre-presentation version of your Abstract should be complete. If you decide 
 
 ## The Presentation
 
-After all of the project proposals have been approved, we will settle on a schedule for the presentations and post that schedule on the date specified in the [Course Calendar](calendar.qmd). Your slides must be submitted to the appropriate place in our **Shared Google Drive** in either PDF, HTML (slides), Google Slides or Powerpoint format, along with your pre-presentation Abstract, according to the deadline in the [Course Calendar](calendar.qmd) associated with your project presentation date.
+After all of the project proposals have been approved, we have settled on a schedule for the presentations [posted here](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/schedule.md) and specified in the [Course Calendar](calendar.qmd). Your slides must be submitted to the appropriate place in our **Shared Google Drive** in either PDF, HTML (slides), Google Slides or Powerpoint format, along with your pre-presentation Abstract, according to the deadline in the [Course Calendar](calendar.qmd) and [Project Schedule page](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/schedule.md) associated with your project presentation date.
 
 Broadly, your slides will include an introduction which provides a foundation by motivating and clearly stating the research questions you studied, a main section which summarizes your pre-data collection beliefs, the key models and analytical results, and the critical findings of the study, and a conclusion, which provides insight into how your knowledge of the problem you studied has changed as a result of the project, as well as highlighting what you believe to be the key takeaways (both statistical and study-specific) for your audience. These sections should be keyed to slides, smoothing transitions, and forcing you to "tell us what you're going to tell us, tell us, then tell us what you told us."  
 
-The goal is for each presentation to take about 25 minutes in total, including about 18 minutes of slides, 5 minutes for asking and answering questions during the talk, and 1-2 minutes between talks.
+The goal is for each presentation to take 25 minutes in total, including 18 minutes of slides, 5 minutes for asking and answering questions during the talk, and 2 minutes between talks for transitions.
 
 ### Some Suggestions and a Potential Outline for Your Presentation
 
