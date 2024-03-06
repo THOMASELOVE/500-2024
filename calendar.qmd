@@ -35,12 +35,12 @@ LINK | Date | Description
 [Project](proj500.qmd) | 03-05 | **Tuesday** 9 AM: [Project](proj500.qmd) Proposal Draft 2 due to [Canvas](https://canvas.case.edu/) <br /> Complete [project scheduling form](https://bit.ly/500-project-schedule-2024).
 [Class 08](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class08) | 03-07 | [Project Schedule](https://github.com/THOMASELOVE/500-classes-2024/blob/main/project/schedule.md), [OSIA advice](https://github.com/THOMASELOVE/500-osia-2024/blob/main/README.md) and catch-up <br /> Readings: (1) **PRR CI** Chapter 7 (Natural Experiments, etc.), <br /> From [Sources](https://github.com/THOMASELOVE/500-sources): (2) Tanenbaum 2019
 *No Class* | 03-14 | CWRU Spring Break (3-11 through 3-15) <br /> TA office hours also cancelled, and **500-help** will be closed.
-[OSIA](osia.qmd) | 03-20 | **Wednesday 1 PM**: Class 09 OSIA First Readers (Sid, Hala, Sriram) <br /> submit your 12-18 slides to our **Shared Drive** as PDF or Powerpoint.
-[OSIA](osia.qmd) | 03-21 | **Thursday 7:30 AM**: Class 09 OSIA Second Readers (Jesse, Aman, Marie) <br /> submit your 2-4 slides to our **Shared Drive** as PDF or Powerpoint.
+[OSIA](osia.qmd) | 03-20 | **Wednesday 1 PM**: Class 09 OSIA First Readers (Sid, Hala, Sriram) <br /> submit your 12-18 slides to our **Shared Drive**
+[OSIA](osia.qmd) | 03-21 | **Thursday 7:30 AM**: Class 09 OSIA Second Readers (Jesse, Aman, Marie) <br /> submit your 2-4 slides to our **Shared Drive**
 [Lab 4](lab4.qmd) | 03-21 | [Lab 4](lab4.qmd) due to [Canvas](https://canvas.case.edu/) by the start of class
 [Class 09](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class09) | 03-21 | **9 - 11 AM** [OSIA](https://github.com/THOMASELOVE/500-osia-2024/blob/main/README.md#to-be-presented-live-in-class-09-2024-03-21) (Sid/Jesse, Hala/Aman, Sriram/Marie) <br /> Discussion of [Lab 4](lab4.qmd) Sketch <br /> Reading: **PRR CI** Chapter 8 (Replication, Resolution and Evidence Factors)
-[OSIA](osia.qmd) | 03-27 | **Wednesday 1 PM**: Class 10 OSIA First Readers (Morgan, Karlo and John) <br /> submit your 12-18 slides to our **Shared Drive** as PDF or Powerpoint.
-[OSIA](osia.qmd) | 03-28 | **Thursday 7:30 AM**: Class 10 OSIA Second Readers (Lydia, Miza and Chris) <br /> submit your 2-4 slides to our **Shared Drive** as PDF or Powerpoint.
+[OSIA](osia.qmd) | 03-27 | **Wednesday 1 PM**: Class 10 OSIA First Readers (Morgan, Karlo and John) <br /> submit your 12-18 slides to our **Shared Drive**
+[OSIA](osia.qmd) | 03-28 | **Thursday 7:30 AM**: Class 10 OSIA Second Readers (Lydia, Miza and Chris) <br /> submit your 2-4 slides to our **Shared Drive**
 [OSIA](osia.qmd) | 03-28 | **Thursday 9 AM**: [OSIA](osia.qmd) First Readers for Video Recordings <br /> Submit 12-18 slides and Video Recordings (.mp4, < 12 minutes) <br /> to **Shared Google Drive**: Aman, Ava, Chris, Jesse, Justin, <br / > Lent, Lydia, Marie, Miza, Naji, Orsino, Sam and Sara
 [Class 10](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class10) | 03-28 | **9 - 11 AM** [OSIA](https://github.com/THOMASELOVE/500-osia-2024/blob/main/README.md#to-be-presented-live-in-class-10-2024-03-28) (Morgan/Lydia, Karlo/Miza, John/Chris) <br /> Reading: **PRR CI** Chapter 9 (Uncertainty and Complexity)
 
@@ -51,8 +51,8 @@ LINK | Date | Description
 -- | 04-01 | Monday TA office hours are cancelled
 [Project](proj500.qmd) | 04-02 | **Tuesday** 9 AM: [Project Update](https://thomaselove.github.io/500-2024/proj500.html#the-project-update) due to [Canvas](https://canvas.case.edu/)
 -- | 04-03 | Wednesday TA office hours are cancelled
-[OSIA](osia.qmd) | 04-03 | **Wednesday 1 PM**: Class 11 OSIA First Readers (Anya, Akhil and Seth) <br /> submit your 12-18 slides to our **Shared Drive** as PDF or Powerpoint.
-[OSIA](osia.qmd) | 04-04 | **Thursday 7:30 AM**: Class 11 OSIA Second Readers (Lent, Sara and Ava) <br /> submit your 2-4 slides to our **Shared Drive** as PDF or Powerpoint.
+[OSIA](osia.qmd) | 04-03 | **Wednesday 1 PM**: Class 11 OSIA First Readers (Anya, Akhil and Seth) <br /> submit your 12-18 slides to our **Shared Drive**
+[OSIA](osia.qmd) | 04-04 | **Thursday 7:30 AM**: Class 11 OSIA Second Readers (Lent, Sara and Ava) <br /> submit your 2-4 slides to our **Shared Drive**
 [OSIA](osia.qmd) | 04-04 | **Thursday 9 AM**: [OSIA](osia.qmd) Second Readers for Video Recordings <br /> Submit 2-4 slides and Video Recordings (.mp4, < 3 minutes) <br /> to **Shared Google Drive**: Akhil, Anya, Hala, John, Justin <br /> Karlo, Morgan, Naji, Orsino, Sam, Seth, Sid and Sriram
 [Class 11](https://github.com/THOMASELOVE/500-classes-2024/tree/main/class11) | 04-04 | **9 - 11 AM** [OSIA](https://github.com/THOMASELOVE/500-osia-2024/blob/main/README.md#to-be-presented-live-in-class-11-2024-04-04) (Anya/Lent, Akhil/Sara, Seth/Ava) <br /> Project Update discussion <br /> Reading: **PRR CI** finish book
 -- | 04-08 | Monday TA office hours are cancelled in light of the eclipse
